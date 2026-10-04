@@ -1,0 +1,1001 @@
+delivery_id,order_date,warehouse,destination,vehicle_type,distance_km,weight_kg,promised_date,actual_delivery_date,delivery_status,delay_days,delivery_cost_rm
+DLV0001,2026-04-16,Selangor Hub,Klang,Van,412,143.7,2026-04-20,2026-04-19,Delivered,0,459.38
+DLV0002,2026-08-08,Selangor Hub,Klang,Lorry,382,707.9,2026-08-10,,Cancelled,,616.2
+DLV0003,2026-03-15,Johor Hub,Pasir Gudang,Lorry,201,526.2,2026-03-17,2026-03-17,Delivered,0,320.64
+DLV0004,2026-03-05,Johor Hub,Batu Pahat,Motorcycle,351,245.0,2026-03-06,2026-03-06,Delivered,0,245.18
+DLV0005,2026-08-10,Selangor Hub,Kajang,Van,334,129.0,2026-08-12,2026-08-12,Delivered,0,363.31
+DLV0006,2026-01-31,Selangor Hub,Klang,Motorcycle,380,15.1,2026-02-01,2026-02-01,Delivered,0,269.48
+DLV0007,2026-02-16,Johor Hub,Batu Pahat,Lorry,376,68.3,2026-02-19,2026-02-18,Delivered,0,597.23
+DLV0008,2026-05-03,Kedah Hub,Alor Setar,Motorcycle,156,272.2,2026-05-04,,Cancelled,,113.1
+DLV0009,2026-06-27,Selangor Hub,Kajang,Van,37,3.4,2026-07-01,2026-07-02,Delivered,1,45.65
+DLV0010,2026-01-18,Johor Hub,Kluang,Motorcycle,24,15.6,2026-01-20,2026-01-21,Delayed,1,38.8
+DLV0011,2026-02-02,Kedah Hub,Jitra,Van,326,264.1,2026-02-05,2026-02-04,Delivered,0,367.01
+DLV0012,2026-01-12,Selangor Hub,Kajang,Motorcycle,336,119.2,2026-01-15,2026-01-15,Delivered,0,235.07
+DLV0013,2026-04-16,Johor Hub,Johor Bahru,Van,444,295.0,2026-04-20,2026-04-20,Delivered,0,484.09
+DLV0014,2026-02-11,Kedah Hub,Sungai Petani,Van,27,73.5,2026-02-12,2026-02-13,Delivered,1,34.95
+DLV0015,2026-05-24,Johor Hub,Pasir Gudang,Motorcycle,270,158.0,2026-05-27,2026-05-27,Delivered,0,184.49
+DLV0016,2026-02-23,Selangor Hub,Shah Alam,Van,299,12.3,2026-02-24,2026-02-23,Delivered,0,335.3
+DLV0017,2026-03-26,Selangor Hub,Klang,Motorcycle,74,221.3,2026-03-27,2026-03-27,Delivered,0,61.53
+DLV0018,2026-04-29,Kedah Hub,Jitra,Lorry,228,471.9,2026-04-30,2026-04-30,Delivered,0,361.28
+DLV0019,2026-06-16,Selangor Hub,Kajang,Motorcycle,164,174.5,2026-06-19,2026-06-19,Delivered,0,133.86
+DLV0020,2026-05-15,Kedah Hub,Alor Setar,Van,414,181.2,2026-05-19,,Cancelled,,439.05
+DLV0021,2026-06-01,Kedah Hub,Jitra,Motorcycle,143,126.3,2026-06-03,,Cancelled,,108.55
+DLV0022,2026-06-13,Selangor Hub,Shah Alam,Van,405,30.8,2026-06-15,2026-06-14,Delivered,0,452.72
+DLV0023,2026-02-06,Johor Hub,Johor Bahru,Motorcycle,57,208.0,2026-02-08,2026-02-09,Delivered,1,59.15
+DLV0024,2026-07-22,Johor Hub,Kluang,Motorcycle,459,125.8,2026-07-26,,Cancelled,,306.1
+DLV0025,2026-02-21,Selangor Hub,Petaling Jaya,Lorry,128,622.1,2026-02-25,2026-02-25,Delivered,0,208.06
+DLV0026,2026-06-29,Kedah Hub,Jitra,Motorcycle,410,33.1,2026-07-01,2026-07-02,Delayed,1,284.98
+DLV0027,2026-04-25,Kedah Hub,Sungai Petani,Van,98,23.9,2026-04-29,2026-04-29,Delivered,0,107.87
+DLV0028,2026-01-17,Johor Hub,Pasir Gudang,Motorcycle,140,261.2,2026-01-18,2026-01-19,Delivered,1,108.26
+DLV0029,2026-07-31,Johor Hub,Batu Pahat,Motorcycle,115,205.4,2026-08-04,2026-08-08,Delayed,4,84.64
+DLV0030,2026-07-23,Selangor Hub,Klang,Lorry,286,30.6,2026-07-26,2026-07-25,Delivered,0,458.88
+DLV0031,2026-07-07,Kedah Hub,Jitra,Lorry,460,778.5,2026-07-11,2026-07-11,Delivered,0,732.03
+DLV0032,2026-06-23,Selangor Hub,Shah Alam,Van,200,289.5,2026-06-27,2026-06-28,Delivered,1,217.0
+DLV0033,2026-03-13,Kedah Hub,Jitra,Motorcycle,276,167.2,2026-03-14,,Cancelled,,191.25
+DLV0034,2026-04-30,Johor Hub,Johor Bahru,Motorcycle,288,270.9,2026-05-04,2026-05-04,Delivered,0,192.84
+DLV0035,2026-05-12,Kedah Hub,Kulim,Motorcycle,165,119.9,2026-05-13,2026-05-13,Delivered,0,122.58
+DLV0036,2026-08-20,Johor Hub,Johor Bahru,Van,91,111.9,2026-08-23,2026-08-24,Delivered,1,118.19
+DLV0037,2026-07-01,Selangor Hub,Shah Alam,Lorry,196,692.0,2026-07-05,2026-07-05,Delivered,0,328.95
+DLV0038,2026-09-06,Kedah Hub,Kulim,Lorry,227,867.1,2026-09-09,2026-09-09,Delivered,0,373.76
+DLV0039,2026-05-21,Kedah Hub,Sungai Petani,Lorry,197,607.9,2026-05-25,2026-05-25,Delivered,0,325.6
+DLV0040,2026-07-03,Selangor Hub,Shah Alam,Lorry,425,786.1,2026-07-07,,Cancelled,,678.52
+DLV0041,2026-09-02,Johor Hub,Pasir Gudang,Lorry,470,789.5,2026-09-04,2026-09-04,Delivered,0,735.37
+DLV0042,2026-06-24,Johor Hub,Kluang,Motorcycle,267,228.5,2026-06-25,,Cancelled,,182.91
+DLV0043,2026-08-07,Selangor Hub,Petaling Jaya,Motorcycle,356,114.7,2026-08-09,,Cancelled,,256.75
+DLV0044,2026-06-25,Johor Hub,Johor Bahru,Lorry,328,885.6,2026-06-28,2026-06-28,Delivered,0,518.71
+DLV0045,2026-06-30,Johor Hub,Batu Pahat,Lorry,30,237.3,2026-07-01,2026-06-30,Delivered,0,63.05
+DLV0046,2026-07-04,Kedah Hub,Kulim,Lorry,169,142.6,2026-07-07,2026-07-07,Delivered,0,271.55
+DLV0047,2026-01-05,Kedah Hub,Kulim,Lorry,464,640.5,2026-01-08,2026-01-07,Delivered,0,723.72
+DLV0048,2026-05-01,Selangor Hub,Kajang,Lorry,53,200.0,2026-05-05,2026-05-05,Delivered,0,107.87
+DLV0049,2026-09-09,Selangor Hub,Klang,Motorcycle,445,28.2,2026-09-12,2026-09-12,Delivered,0,296.53
+DLV0050,2026-01-13,Selangor Hub,Shah Alam,Motorcycle,355,298.1,2026-01-16,2026-01-18,Delayed,2,242.19
+DLV0051,2026-04-01,Johor Hub,Pasir Gudang,Motorcycle,239,164.5,2026-04-02,2026-04-03,Delivered,1,182.86
+DLV0052,2026-09-23,Johor Hub,Pasir Gudang,Van,358,37.5,2026-09-25,2026-09-25,Delivered,0,391.53
+DLV0053,2026-08-03,Selangor Hub,Shah Alam,Motorcycle,234,78.8,2026-08-04,,Cancelled,,163.74
+DLV0054,2026-07-20,Kedah Hub,Alor Setar,Lorry,288,319.0,2026-07-23,2026-07-23,Delivered,0,472.93
+DLV0055,2026-08-10,Kedah Hub,Kulim,Van,343,264.0,2026-08-14,2026-08-14,Delivered,0,387.58
+DLV0056,2026-05-04,Kedah Hub,Sungai Petani,Motorcycle,363,20.1,2026-05-05,2026-05-04,Delivered,0,254.33
+DLV0057,2026-09-26,Selangor Hub,Kajang,Van,365,81.5,2026-09-28,2026-09-28,Delivered,0,409.45
+DLV0058,2026-02-14,Selangor Hub,Petaling Jaya,Lorry,278,777.0,2026-02-16,,Cancelled,,455.19
+DLV0059,2026-04-14,Johor Hub,Batu Pahat,Lorry,258,459.8,2026-04-16,2026-04-18,Delayed,2,421.09
+DLV0060,2026-05-21,Johor Hub,Kluang,Lorry,272,835.4,2026-05-22,2026-05-22,Delivered,0,440.62
+DLV0061,2026-06-12,Selangor Hub,Shah Alam,Lorry,40,532.4,2026-06-13,2026-06-13,Delivered,0,84.74
+DLV0062,2026-09-08,Kedah Hub,Jitra,Motorcycle,190,203.2,2026-09-11,,Cancelled,,147.34
+DLV0063,2026-02-26,Kedah Hub,Kulim,Lorry,128,367.4,2026-03-02,2026-03-02,Delivered,0,209.03
+DLV0064,2026-09-23,Johor Hub,Johor Bahru,Lorry,475,589.8,2026-09-24,2026-09-26,Delayed,2,756.68
+DLV0065,2026-05-25,Selangor Hub,Klang,Motorcycle,436,8.7,2026-05-26,2026-05-27,Delivered,1,289.01
+DLV0066,2026-06-27,Selangor Hub,Shah Alam,Motorcycle,346,18.5,2026-07-01,2026-07-02,Delivered,1,244.27
+DLV0067,2026-09-29,Kedah Hub,Kulim,Lorry,160,126.6,2026-10-02,2026-10-02,Delivered,0,262.04
+DLV0068,2026-03-08,Johor Hub,Kluang,Van,416,30.5,2026-03-10,2026-03-09,Delivered,0,463.72
+DLV0069,2026-09-08,Johor Hub,Pasir Gudang,Motorcycle,447,264.4,2026-09-12,2026-09-12,Delivered,0,316.71
+DLV0070,2026-07-09,Johor Hub,Pasir Gudang,Lorry,46,800.3,2026-07-10,2026-07-10,Delivered,0,87.61
+DLV0071,2026-04-03,Selangor Hub,Kajang,Lorry,122,294.4,2026-04-07,2026-04-07,Delivered,0,208.78
+DLV0072,2026-01-20,Kedah Hub,Sungai Petani,Motorcycle,253,135.5,2026-01-23,2026-01-24,Delivered,1,173.16
+DLV0073,2026-04-16,Selangor Hub,Kajang,Motorcycle,137,213.8,2026-04-18,2026-04-18,Delivered,0,116.68
+DLV0074,2026-07-26,Kedah Hub,Kulim,Motorcycle,209,44.4,2026-07-29,2026-07-28,Delivered,0,163.79
+DLV0075,2026-09-08,Selangor Hub,Shah Alam,Lorry,143,579.5,2026-09-12,2026-09-12,Delivered,0,224.94
+DLV0076,2026-05-12,Kedah Hub,Kulim,Lorry,398,358.6,2026-05-15,2026-05-18,Delayed,3,628.12
+DLV0077,2026-08-12,Kedah Hub,Alor Setar,Van,321,137.8,2026-08-16,2026-08-16,Delivered,0,351.59
+DLV0078,2026-05-15,Selangor Hub,Petaling Jaya,Van,221,245.5,2026-05-19,2026-05-19,Delivered,0,243.98
+DLV0079,2026-08-24,Selangor Hub,Shah Alam,Motorcycle,220,131.9,2026-08-25,2026-08-25,Delivered,0,168.4
+DLV0080,2026-07-05,Selangor Hub,Petaling Jaya,Lorry,440,696.5,2026-07-08,2026-07-08,Delivered,0,697.09
+DLV0081,2026-04-18,Johor Hub,Pasir Gudang,Motorcycle,128,14.0,2026-04-21,2026-04-22,Delivered,1,96.33
+DLV0082,2026-04-09,Selangor Hub,Klang,Van,247,97.8,2026-04-12,2026-04-12,Delivered,0,285.01
+DLV0083,2026-03-21,Selangor Hub,Kajang,Lorry,305,441.2,2026-03-22,2026-03-22,Delivered,0,477.22
+DLV0084,2026-08-16,Selangor Hub,Shah Alam,Motorcycle,61,225.8,2026-08-18,2026-08-22,Delayed,4,60.7
+DLV0085,2026-07-13,Kedah Hub,Sungai Petani,Van,373,298.9,2026-07-15,2026-07-15,Delivered,0,397.72
+DLV0086,2026-01-30,Selangor Hub,Petaling Jaya,Motorcycle,306,225.9,2026-02-03,2026-02-07,Delayed,4,205.77
+DLV0087,2026-05-16,Johor Hub,Pasir Gudang,Lorry,452,586.3,2026-05-19,2026-05-21,Delayed,2,718.72
+DLV0088,2026-01-10,Johor Hub,Johor Bahru,Motorcycle,222,183.0,2026-01-11,2026-01-11,Delivered,0,152.06
+DLV0089,2026-02-10,Selangor Hub,Klang,Motorcycle,363,221.4,2026-02-12,2026-02-11,Delivered,0,239.35
+DLV0090,2026-04-05,Kedah Hub,Alor Setar,Lorry,395,702.3,2026-04-06,2026-04-06,Delivered,0,631.31
+DLV0091,2026-01-04,Selangor Hub,Klang,Lorry,97,811.6,2026-01-06,2026-01-06,Delivered,0,168.51
+DLV0092,2026-06-02,Selangor Hub,Petaling Jaya,Van,96,227.2,2026-06-05,2026-06-04,Delivered,0,111.52
+DLV0093,2026-03-04,Kedah Hub,Jitra,Motorcycle,253,241.1,2026-03-07,2026-03-10,Delayed,3,180.49
+DLV0094,2026-08-29,Johor Hub,Kluang,Van,429,162.0,2026-08-31,2026-08-31,Delivered,0,468.45
+DLV0095,2026-07-13,Johor Hub,Johor Bahru,Motorcycle,97,53.2,2026-07-16,,Cancelled,,87.91
+DLV0096,2026-03-30,Selangor Hub,Kajang,Lorry,25,129.8,2026-03-31,2026-04-04,Delayed,4,42.5
+DLV0097,2026-07-11,Selangor Hub,Kajang,Van,270,37.6,2026-07-14,2026-07-14,Delivered,0,301.02
+DLV0098,2026-05-18,Kedah Hub,Jitra,Van,237,148.2,2026-05-20,2026-05-19,Delivered,0,262.05
+DLV0099,2026-09-01,Kedah Hub,Kulim,Lorry,363,740.9,2026-09-04,2026-09-04,Delivered,0,571.27
+DLV0100,2026-09-23,Kedah Hub,Kulim,Motorcycle,333,26.5,2026-09-25,2026-09-25,Delivered,0,239.47
+DLV0101,2026-09-26,Selangor Hub,Klang,Motorcycle,88,182.3,2026-09-30,2026-09-29,Delivered,0,81.5
+DLV0102,2026-08-22,Kedah Hub,Kulim,Motorcycle,269,132.9,2026-08-25,2026-08-25,Delivered,0,198.75
+DLV0103,2026-06-10,Johor Hub,Pasir Gudang,Van,79,109.3,2026-06-11,2026-06-11,Delivered,0,95.49
+DLV0104,2026-02-28,Kedah Hub,Kulim,Motorcycle,435,168.5,2026-03-01,2026-03-01,Delivered,0,304.81
+DLV0105,2026-03-07,Selangor Hub,Klang,Lorry,421,840.4,2026-03-09,2026-03-09,Delivered,0,668.84
+DLV0106,2026-04-16,Kedah Hub,Sungai Petani,Van,295,114.7,2026-04-18,2026-04-18,Delivered,0,332.9
+DLV0107,2026-04-03,Selangor Hub,Shah Alam,Motorcycle,198,98.2,2026-04-04,2026-04-03,Delivered,0,154.76
+DLV0108,2026-05-17,Selangor Hub,Shah Alam,Lorry,447,128.4,2026-05-20,2026-05-20,Delivered,0,711.3
+DLV0109,2026-04-30,Kedah Hub,Jitra,Motorcycle,336,160.9,2026-05-02,2026-05-02,Delivered,0,232.25
+DLV0110,2026-05-14,Johor Hub,Pasir Gudang,Lorry,254,677.8,2026-05-18,2026-05-18,Delivered,0,401.63
+DLV0111,2026-09-12,Kedah Hub,Alor Setar,Van,252,272.1,2026-09-14,2026-09-15,Delivered,1,273.96
+DLV0112,2026-08-11,Kedah Hub,Kulim,Van,458,34.9,2026-08-14,2026-08-14,Delivered,0,492.77
+DLV0113,2026-06-20,Johor Hub,Pasir Gudang,Lorry,424,80.9,2026-06-22,2026-06-22,Delivered,0,676.1
+DLV0114,2026-06-30,Kedah Hub,Sungai Petani,Motorcycle,348,234.6,2026-07-04,2026-07-04,Delivered,0,241.16
+DLV0115,2026-07-25,Johor Hub,Johor Bahru,Lorry,405,391.1,2026-07-28,2026-07-29,Delivered,1,632.24
+DLV0116,2026-08-12,Kedah Hub,Kulim,Motorcycle,335,66.1,2026-08-15,2026-08-15,Delivered,0,244.13
+DLV0117,2026-01-13,Johor Hub,Pasir Gudang,Motorcycle,307,79.7,2026-01-16,2026-01-15,Delivered,0,218.74
+DLV0118,2026-01-25,Johor Hub,Kluang,Lorry,457,580.2,2026-01-26,2026-01-28,Delayed,2,711.83
+DLV0119,2026-07-31,Johor Hub,Batu Pahat,Van,15,199.0,2026-08-04,,Cancelled,,37.04
+DLV0120,2026-06-11,Johor Hub,Pasir Gudang,Van,334,120.0,2026-06-15,2026-06-15,Delivered,0,360.9
+DLV0121,2026-03-21,Johor Hub,Johor Bahru,Motorcycle,332,247.2,2026-03-23,2026-03-23,Delivered,0,231.62
+DLV0122,2026-03-29,Johor Hub,Pasir Gudang,Motorcycle,307,106.0,2026-03-30,2026-03-30,Delivered,0,221.19
+DLV0123,2026-01-28,Kedah Hub,Alor Setar,Van,40,22.8,2026-01-29,2026-01-31,Delayed,2,48.77
+DLV0124,2026-05-23,Kedah Hub,Kulim,Lorry,16,690.5,2026-05-26,2026-05-27,Delivered,1,48.72
+DLV0125,2026-06-16,Johor Hub,Johor Bahru,Motorcycle,338,23.6,2026-06-19,2026-06-19,Delivered,0,238.13
+DLV0126,2026-04-07,Johor Hub,Johor Bahru,Motorcycle,157,195.4,2026-04-11,2026-04-11,Delivered,0,106.06
+DLV0127,2026-07-26,Kedah Hub,Kulim,Lorry,209,430.7,2026-07-28,2026-07-28,Delivered,0,350.54
+DLV0128,2026-09-16,Selangor Hub,Kajang,Van,243,268.6,2026-09-18,2026-09-18,Delivered,0,263.83
+DLV0129,2026-05-28,Kedah Hub,Jitra,Motorcycle,381,66.1,2026-05-29,2026-05-29,Delivered,0,273.26
+DLV0130,2026-08-10,Kedah Hub,Alor Setar,Motorcycle,144,13.6,2026-08-11,2026-08-11,Delivered,0,115.86
+DLV0131,2026-04-01,Kedah Hub,Alor Setar,Lorry,212,245.1,2026-04-02,2026-04-02,Delivered,0,350.86
+DLV0132,2026-06-30,Kedah Hub,Sungai Petani,Lorry,156,106.4,2026-07-02,2026-07-02,Delivered,0,251.54
+DLV0133,2026-05-08,Johor Hub,Johor Bahru,Motorcycle,365,184.2,2026-05-10,2026-05-09,Delivered,0,249.94
+DLV0134,2026-04-20,Kedah Hub,Alor Setar,Motorcycle,421,180.9,2026-04-23,2026-04-23,Delivered,0,288.24
+DLV0135,2026-08-25,Kedah Hub,Alor Setar,Van,96,58.1,2026-08-28,2026-08-30,Delayed,2,117.23
+DLV0136,2026-05-25,Kedah Hub,Jitra,Van,60,202.6,2026-05-29,2026-05-28,Delivered,0,79.68
+DLV0137,2026-03-25,Johor Hub,Kluang,Motorcycle,306,212.1,2026-03-26,2026-03-29,Delayed,3,211.19
+DLV0138,2026-02-26,Kedah Hub,Jitra,Motorcycle,24,96.4,2026-03-01,2026-03-05,Delayed,4,31.41
+DLV0139,2026-09-28,Kedah Hub,Kulim,Lorry,122,144.6,2026-10-02,2026-10-02,Delivered,0,208.32
+DLV0140,2026-02-09,Kedah Hub,Jitra,Lorry,457,623.5,2026-02-12,2026-02-14,Delayed,2,720.97
+DLV0141,2026-08-07,Selangor Hub,Klang,Motorcycle,298,42.1,2026-08-11,2026-08-11,Delivered,0,213.38
+DLV0142,2026-09-07,Johor Hub,Batu Pahat,Van,128,108.6,2026-09-10,2026-09-09,Delivered,0,150.31
+DLV0143,2026-07-19,Kedah Hub,Jitra,Motorcycle,145,33.3,2026-07-21,2026-07-21,Delivered,0,109.2
+DLV0144,2026-02-07,Selangor Hub,Klang,Motorcycle,366,221.9,2026-02-09,,Cancelled,,245.46
+DLV0145,2026-01-21,Johor Hub,Johor Bahru,Motorcycle,398,87.6,2026-01-23,,Cancelled,,282.39
+DLV0146,2026-06-12,Selangor Hub,Petaling Jaya,Lorry,108,377.0,2026-06-15,2026-06-19,Delayed,4,181.0
+DLV0147,2026-01-06,Kedah Hub,Jitra,Van,28,70.3,2026-01-10,2026-01-10,Delivered,0,39.09
+DLV0148,2026-02-07,Selangor Hub,Petaling Jaya,Lorry,287,221.3,2026-02-09,,Cancelled,,459.07
+DLV0149,2026-04-12,Selangor Hub,Petaling Jaya,Motorcycle,381,239.2,2026-04-15,2026-04-17,Delayed,2,262.57
+DLV0150,2026-07-04,Johor Hub,Johor Bahru,Van,96,286.5,2026-07-08,2026-07-08,Delivered,0,105.44
+DLV0151,2026-09-13,Johor Hub,Batu Pahat,Lorry,273,133.8,2026-09-16,2026-09-17,Delivered,1,431.06
+DLV0152,2026-06-14,Selangor Hub,Kajang,Van,448,34.6,2026-06-16,2026-06-16,Delivered,0,477.73
+DLV0153,2026-07-12,Kedah Hub,Sungai Petani,Lorry,146,849.7,2026-07-15,,Cancelled,,247.66
+DLV0154,2026-09-25,Selangor Hub,Petaling Jaya,Lorry,177,461.4,2026-09-29,2026-09-29,Delivered,0,291.12
+DLV0155,2026-02-03,Selangor Hub,Kajang,Van,110,41.9,2026-02-04,2026-02-04,Delivered,0,123.83
+DLV0156,2026-02-16,Selangor Hub,Kajang,Motorcycle,353,151.2,2026-02-19,,Cancelled,,234.83
+DLV0157,2026-09-20,Selangor Hub,Kajang,Motorcycle,179,239.9,2026-09-22,2026-09-23,Delivered,1,129.19
+DLV0158,2026-02-27,Johor Hub,Batu Pahat,Lorry,100,406.2,2026-03-03,2026-03-04,Delivered,1,167.16
+DLV0159,2026-07-23,Johor Hub,Batu Pahat,Lorry,319,374.9,2026-07-25,2026-07-26,Delayed,1,499.64
+DLV0160,2026-08-02,Kedah Hub,Jitra,Motorcycle,354,203.5,2026-08-04,2026-08-04,Delivered,0,233.43
+DLV0161,2026-08-03,Kedah Hub,Alor Setar,Van,358,53.9,2026-08-06,2026-08-10,Delayed,4,390.11
+DLV0162,2026-03-04,Selangor Hub,Kajang,Van,169,282.0,2026-03-05,2026-03-05,Delivered,0,204.37
+DLV0163,2026-04-12,Kedah Hub,Sungai Petani,Van,308,298.5,2026-04-14,2026-04-16,Delayed,2,335.33
+DLV0164,2026-07-09,Selangor Hub,Klang,Lorry,274,480.6,2026-07-12,2026-07-12,Delivered,0,441.36
+DLV0165,2026-09-14,Johor Hub,Johor Bahru,Motorcycle,264,28.7,2026-09-15,2026-09-16,Delivered,1,187.23
+DLV0166,2026-09-15,Kedah Hub,Jitra,Lorry,146,149.0,2026-09-17,2026-09-17,Delivered,0,253.23
+DLV0167,2026-06-07,Selangor Hub,Petaling Jaya,Motorcycle,124,192.4,2026-06-10,2026-06-10,Delivered,0,83.82
+DLV0168,2026-08-08,Selangor Hub,Petaling Jaya,Motorcycle,89,108.7,2026-08-11,2026-08-12,Delivered,1,61.89
+DLV0169,2026-03-20,Selangor Hub,Shah Alam,Motorcycle,238,35.7,2026-03-22,2026-03-23,Delivered,1,165.44
+DLV0170,2026-09-08,Johor Hub,Johor Bahru,Motorcycle,70,6.8,2026-09-09,2026-09-12,Delayed,3,54.81
+DLV0171,2026-02-12,Selangor Hub,Kajang,Motorcycle,295,119.7,2026-02-13,2026-02-13,Delivered,0,201.63
+DLV0172,2026-01-06,Kedah Hub,Kulim,Motorcycle,209,280.7,2026-01-10,2026-01-09,Delivered,0,148.08
+DLV0173,2026-03-06,Kedah Hub,Kulim,Motorcycle,405,30.7,2026-03-09,2026-03-10,Delayed,1,281.35
+DLV0174,2026-01-11,Selangor Hub,Kajang,Van,314,264.9,2026-01-15,2026-01-15,Delivered,0,347.06
+DLV0175,2026-05-16,Kedah Hub,Jitra,Van,90,208.7,2026-05-17,2026-05-17,Delivered,0,98.46
+DLV0176,2026-02-07,Kedah Hub,Jitra,Motorcycle,465,107.5,2026-02-10,2026-02-10,Delivered,0,313.06
+DLV0177,2026-06-13,Kedah Hub,Jitra,Lorry,271,526.8,2026-06-15,2026-06-15,Delivered,0,432.75
+DLV0178,2026-01-30,Kedah Hub,Kulim,Van,182,239.1,2026-02-03,2026-02-02,Delivered,0,208.33
+DLV0179,2026-07-30,Johor Hub,Batu Pahat,Van,105,103.0,2026-08-03,2026-08-03,Delivered,0,119.12
+DLV0180,2026-07-17,Kedah Hub,Jitra,Motorcycle,372,191.2,2026-07-21,2026-07-21,Delivered,0,259.27
+DLV0181,2026-04-02,Selangor Hub,Petaling Jaya,Lorry,256,723.4,2026-04-04,2026-04-04,Delivered,0,401.92
+DLV0182,2026-09-19,Kedah Hub,Kulim,Van,226,52.5,2026-09-23,2026-09-23,Delivered,0,259.13
+DLV0183,2026-04-20,Johor Hub,Kluang,Lorry,84,200.5,2026-04-22,2026-04-22,Delivered,0,158.19
+DLV0184,2026-01-23,Kedah Hub,Kulim,Motorcycle,432,255.8,2026-01-27,2026-01-26,Delivered,0,295.0
+DLV0185,2026-06-29,Johor Hub,Pasir Gudang,Van,26,162.9,2026-07-02,2026-07-01,Delivered,0,47.16
+DLV0186,2026-01-03,Johor Hub,Johor Bahru,Van,123,87.1,2026-01-06,2026-01-05,Delivered,0,141.33
+DLV0187,2026-04-08,Selangor Hub,Kajang,Motorcycle,176,220.6,2026-04-09,2026-04-09,Delivered,0,118.76
+DLV0188,2026-08-18,Kedah Hub,Alor Setar,Lorry,70,50.0,2026-08-19,2026-08-19,Delivered,0,126.48
+DLV0189,2026-01-01,Johor Hub,Pasir Gudang,Van,244,176.5,2026-01-03,2026-01-03,Delivered,0,260.02
+DLV0190,2026-09-19,Kedah Hub,Jitra,Van,388,172.7,2026-09-20,2026-09-21,Delayed,1,413.12
+DLV0191,2026-06-18,Selangor Hub,Shah Alam,Motorcycle,167,262.9,2026-06-19,2026-06-18,Delivered,0,132.21
+DLV0192,2026-07-08,Johor Hub,Johor Bahru,Van,301,68.4,2026-07-12,2026-07-12,Delivered,0,323.39
+DLV0193,2026-04-08,Selangor Hub,Petaling Jaya,Motorcycle,303,157.7,2026-04-12,2026-04-11,Delivered,0,210.2
+DLV0194,2026-07-17,Johor Hub,Kluang,Van,250,239.6,2026-07-18,2026-07-18,Delivered,0,288.25
+DLV0195,2026-04-18,Kedah Hub,Alor Setar,Motorcycle,466,157.3,2026-04-21,2026-04-21,Delivered,0,322.26
+DLV0196,2026-01-19,Kedah Hub,Kulim,Lorry,91,752.2,2026-01-21,2026-01-21,Delivered,0,166.85
+DLV0197,2026-01-03,Johor Hub,Batu Pahat,Lorry,423,231.1,2026-01-07,2026-01-07,Delivered,0,661.36
+DLV0198,2026-02-09,Kedah Hub,Alor Setar,Van,417,299.8,2026-02-11,2026-02-11,Delivered,0,459.01
+DLV0199,2026-03-04,Johor Hub,Johor Bahru,Van,218,93.2,2026-03-07,,Cancelled,,237.92
+DLV0200,2026-07-25,Kedah Hub,Sungai Petani,Van,142,102.0,2026-07-26,2026-07-27,Delayed,1,164.02
+DLV0201,2026-05-11,Selangor Hub,Klang,Van,322,220.9,2026-05-14,2026-05-15,Delivered,1,347.03
+DLV0202,2026-06-28,Johor Hub,Johor Bahru,Van,306,74.2,2026-07-02,2026-07-02,Delivered,0,330.11
+DLV0203,2026-08-22,Selangor Hub,Petaling Jaya,Lorry,199,666.2,2026-08-23,2026-08-23,Delivered,0,318.4
+DLV0204,2026-09-20,Kedah Hub,Kulim,Motorcycle,32,18.5,2026-09-22,2026-09-23,Delivered,1,26.21
+DLV0205,2026-07-23,Johor Hub,Batu Pahat,Lorry,260,899.7,2026-07-27,2026-07-27,Delivered,0,427.02
+DLV0206,2026-04-27,Johor Hub,Batu Pahat,Lorry,329,18.7,2026-04-29,2026-04-29,Delivered,0,533.92
+DLV0207,2026-09-20,Selangor Hub,Petaling Jaya,Motorcycle,436,24.2,2026-09-23,2026-09-22,Delivered,0,295.57
+DLV0208,2026-02-22,Kedah Hub,Alor Setar,Motorcycle,174,119.1,2026-02-25,2026-02-25,Delivered,0,122.3
+DLV0209,2026-07-23,Kedah Hub,Kulim,Van,168,135.6,2026-07-24,2026-07-24,Delivered,0,188.88
+DLV0210,2026-01-08,Johor Hub,Pasir Gudang,Van,139,52.0,2026-01-10,2026-01-09,Delivered,0,159.02
+DLV0211,2026-06-23,Johor Hub,Kluang,Lorry,464,191.7,2026-06-27,2026-06-30,Delayed,3,744.79
+DLV0212,2026-03-20,Johor Hub,Kluang,Van,324,261.0,2026-03-21,,Cancelled,,364.39
+DLV0213,2026-03-11,Johor Hub,Batu Pahat,Motorcycle,250,251.3,2026-03-12,2026-03-13,Delivered,1,186.26
+DLV0214,2026-09-12,Johor Hub,Pasir Gudang,Van,210,251.4,2026-09-14,2026-09-13,Delivered,0,235.89
+DLV0215,2026-05-13,Johor Hub,Batu Pahat,Van,245,86.4,2026-05-17,2026-05-17,Delivered,0,276.23
+DLV0216,2026-02-02,Kedah Hub,Kulim,Motorcycle,135,206.4,2026-02-04,2026-02-05,Delivered,1,100.87
+DLV0217,2026-06-25,Johor Hub,Kluang,Motorcycle,25,146.3,2026-06-27,2026-06-27,Delivered,0,34.38
+DLV0218,2026-05-04,Selangor Hub,Petaling Jaya,Van,410,289.9,2026-05-07,,Cancelled,,450.93
+DLV0219,2026-09-28,Kedah Hub,Jitra,Motorcycle,442,126.0,2026-09-29,2026-09-29,Delivered,0,296.89
+DLV0220,2026-08-14,Johor Hub,Pasir Gudang,Lorry,470,405.0,2026-08-18,2026-08-19,Delivered,1,750.34
+DLV0221,2026-09-15,Selangor Hub,Kajang,Motorcycle,450,200.3,2026-09-16,2026-09-16,Delivered,0,315.26
+DLV0222,2026-08-14,Selangor Hub,Kajang,Motorcycle,153,261.8,2026-08-16,2026-08-17,Delivered,1,120.64
+DLV0223,2026-09-14,Kedah Hub,Sungai Petani,Van,237,29.2,2026-09-15,2026-09-15,Delivered,0,275.01
+DLV0224,2026-01-06,Kedah Hub,Sungai Petani,Van,58,19.7,2026-01-08,2026-01-07,Delivered,0,64.19
+DLV0225,2026-03-23,Kedah Hub,Jitra,Lorry,182,899.2,2026-03-24,2026-03-24,Delivered,0,304.29
+DLV0226,2026-06-26,Selangor Hub,Klang,Van,220,21.4,2026-06-30,2026-06-29,Delivered,0,258.09
+DLV0227,2026-08-28,Kedah Hub,Kulim,Lorry,331,412.3,2026-08-29,,Cancelled,,523.1
+DLV0228,2026-05-27,Selangor Hub,Kajang,Motorcycle,232,244.2,2026-05-28,2026-05-28,Delivered,0,160.36
+DLV0229,2026-06-12,Johor Hub,Pasir Gudang,Motorcycle,95,173.5,2026-06-14,2026-06-14,Delivered,0,64.81
+DLV0230,2026-07-04,Selangor Hub,Klang,Van,185,285.0,2026-07-06,2026-07-07,Delivered,1,208.46
+DLV0231,2026-07-07,Johor Hub,Pasir Gudang,Motorcycle,424,22.0,2026-07-08,2026-07-09,Delivered,1,297.6
+DLV0232,2026-08-17,Selangor Hub,Klang,Motorcycle,355,166.7,2026-08-20,2026-08-20,Delivered,0,237.21
+DLV0233,2026-01-08,Selangor Hub,Klang,Van,234,168.8,2026-01-12,2026-01-12,Delivered,0,264.83
+DLV0234,2026-05-25,Kedah Hub,Sungai Petani,Motorcycle,263,82.4,2026-05-29,2026-05-29,Delivered,0,193.44
+DLV0235,2026-02-19,Johor Hub,Kluang,Motorcycle,448,78.8,2026-02-23,2026-02-23,Delivered,0,316.07
+DLV0236,2026-03-12,Johor Hub,Batu Pahat,Van,442,120.4,2026-03-14,2026-03-13,Delivered,0,487.95
+DLV0237,2026-08-24,Selangor Hub,Kajang,Lorry,283,570.1,2026-08-26,2026-08-27,Delivered,1,454.5
+DLV0238,2026-05-01,Selangor Hub,Klang,Motorcycle,394,80.5,2026-05-02,2026-05-03,Delivered,1,272.9
+DLV0239,2026-07-05,Kedah Hub,Alor Setar,Lorry,138,633.2,2026-07-07,2026-07-10,Delayed,3,228.39
+DLV0240,2026-09-12,Johor Hub,Kluang,Lorry,86,261.1,2026-09-16,2026-09-15,Delivered,0,139.65
+DLV0241,2026-05-19,Johor Hub,Pasir Gudang,Van,338,243.2,2026-05-21,2026-05-21,Delivered,0,363.03
+DLV0242,2026-01-12,Johor Hub,Johor Bahru,Van,285,70.5,2026-01-15,2026-01-15,Delivered,0,304.94
+DLV0243,2026-06-05,Kedah Hub,Sungai Petani,Van,292,180.7,2026-06-06,2026-06-06,Delivered,0,310.15
+DLV0244,2026-07-13,Johor Hub,Johor Bahru,Van,433,63.6,2026-07-14,2026-07-15,Delivered,1,462.43
+DLV0245,2026-01-01,Johor Hub,Johor Bahru,Lorry,191,205.3,2026-01-02,2026-01-02,Delivered,0,308.85
+DLV0246,2026-04-03,Kedah Hub,Jitra,Van,64,78.5,2026-04-06,2026-04-06,Delivered,0,77.28
+DLV0247,2026-01-28,Johor Hub,Batu Pahat,Motorcycle,300,45.9,2026-01-30,2026-01-30,Delivered,0,220.75
+DLV0248,2026-01-30,Selangor Hub,Klang,Van,363,27.7,2026-01-31,2026-02-04,Delayed,4,387.27
+DLV0249,2026-03-02,Selangor Hub,Klang,Van,419,111.4,2026-03-06,2026-03-05,Delivered,0,446.54
+DLV0250,2026-07-13,Selangor Hub,Kajang,Lorry,157,850.2,2026-07-14,2026-07-18,Delayed,4,267.41
+DLV0251,2026-02-15,Kedah Hub,Sungai Petani,Lorry,158,268.4,2026-02-17,2026-02-17,Delivered,0,263.36
+DLV0252,2026-07-09,Johor Hub,Kluang,Lorry,307,68.3,2026-07-11,2026-07-13,Delayed,2,497.09
+DLV0253,2026-09-15,Selangor Hub,Shah Alam,Van,404,260.9,2026-09-19,2026-09-19,Delivered,0,433.22
+DLV0254,2026-07-17,Selangor Hub,Kajang,Lorry,278,441.2,2026-07-21,2026-07-21,Delivered,0,449.55
+DLV0255,2026-08-02,Kedah Hub,Alor Setar,Van,29,260.6,2026-08-05,2026-08-05,Delivered,0,56.13
+DLV0256,2026-02-20,Johor Hub,Batu Pahat,Lorry,278,847.2,2026-02-23,2026-02-23,Delivered,0,456.64
+DLV0257,2026-08-28,Kedah Hub,Alor Setar,Lorry,323,899.5,2026-09-01,2026-09-01,Delivered,0,528.09
+DLV0258,2026-05-10,Kedah Hub,Kulim,Motorcycle,313,293.3,2026-05-12,2026-05-12,Delivered,0,213.38
+DLV0259,2026-04-17,Johor Hub,Johor Bahru,Van,465,260.5,2026-04-19,2026-04-20,Delivered,1,506.17
+DLV0260,2026-03-04,Selangor Hub,Petaling Jaya,Van,256,8.6,2026-03-05,2026-03-05,Delivered,0,290.9
+DLV0261,2026-05-06,Johor Hub,Kluang,Lorry,65,42.5,2026-05-09,2026-05-09,Delivered,0,126.33
+DLV0262,2026-05-16,Kedah Hub,Jitra,Lorry,200,554.5,2026-05-19,,Cancelled,,332.09
+DLV0263,2026-05-16,Johor Hub,Johor Bahru,Motorcycle,36,96.9,2026-05-19,2026-05-18,Delivered,0,37.39
+DLV0264,2026-03-10,Selangor Hub,Petaling Jaya,Motorcycle,277,100.9,2026-03-14,2026-03-14,Delivered,0,197.58
+DLV0265,2026-08-19,Kedah Hub,Sungai Petani,Van,470,90.5,2026-08-23,2026-08-23,Delivered,0,510.91
+DLV0266,2026-07-29,Selangor Hub,Klang,Lorry,452,888.9,2026-08-01,2026-08-01,Delivered,0,709.62
+DLV0267,2026-09-08,Kedah Hub,Sungai Petani,Motorcycle,213,98.3,2026-09-11,2026-09-11,Delivered,0,143.2
+DLV0268,2026-05-13,Selangor Hub,Klang,Lorry,150,376.2,2026-05-15,2026-05-16,Delivered,1,242.55
+DLV0269,2026-01-06,Selangor Hub,Klang,Motorcycle,325,226.1,2026-01-09,2026-01-08,Delivered,0,232.05
+DLV0270,2026-01-23,Kedah Hub,Alor Setar,Lorry,124,891.1,2026-01-27,2026-01-27,Delivered,0,198.24
+DLV0271,2026-09-20,Johor Hub,Kluang,Van,245,7.2,2026-09-22,,Cancelled,,278.75
+DLV0272,2026-03-18,Kedah Hub,Jitra,Lorry,232,143.6,2026-03-21,2026-03-21,Delivered,0,385.23
+DLV0273,2026-07-20,Selangor Hub,Shah Alam,Motorcycle,453,297.7,2026-07-23,2026-07-23,Delivered,0,320.77
+DLV0274,2026-07-15,Johor Hub,Batu Pahat,Van,442,177.9,2026-07-18,,Cancelled,,482.93
+DLV0275,2026-09-04,Johor Hub,Johor Bahru,Lorry,205,383.0,2026-09-05,2026-09-04,Delivered,0,337.87
+DLV0276,2026-01-25,Kedah Hub,Alor Setar,Motorcycle,49,26.0,2026-01-29,2026-01-29,Delivered,0,39.99
+DLV0277,2026-07-27,Selangor Hub,Petaling Jaya,Motorcycle,300,246.2,2026-07-30,2026-07-30,Delivered,0,215.22
+DLV0278,2026-02-09,Kedah Hub,Jitra,Van,190,273.1,2026-02-12,2026-02-13,Delivered,1,226.62
+DLV0279,2026-06-17,Johor Hub,Batu Pahat,Van,213,87.6,2026-06-21,2026-06-21,Delivered,0,238.45
+DLV0280,2026-08-02,Selangor Hub,Petaling Jaya,Motorcycle,141,246.6,2026-08-05,2026-08-06,Delivered,1,103.77
+DLV0281,2026-04-15,Johor Hub,Kluang,Motorcycle,411,241.9,2026-04-17,2026-04-18,Delivered,1,282.09
+DLV0282,2026-06-23,Kedah Hub,Kulim,Motorcycle,261,136.2,2026-06-25,2026-06-25,Delivered,0,197.24
+DLV0283,2026-04-05,Kedah Hub,Jitra,Motorcycle,68,138.7,2026-04-09,2026-04-09,Delivered,0,60.31
+DLV0284,2026-01-13,Selangor Hub,Shah Alam,Lorry,236,697.9,2026-01-17,2026-01-16,Delivered,0,383.55
+DLV0285,2026-07-09,Kedah Hub,Kulim,Motorcycle,140,145.8,2026-07-10,2026-07-10,Delivered,0,110.19
+DLV0286,2026-06-02,Kedah Hub,Kulim,Lorry,466,398.4,2026-06-03,2026-06-02,Delivered,0,738.63
+DLV0287,2026-03-08,Kedah Hub,Kulim,Van,45,26.1,2026-03-11,2026-03-10,Delivered,0,56.67
+DLV0288,2026-03-11,Selangor Hub,Klang,Lorry,182,156.4,2026-03-12,2026-03-12,Delivered,0,285.12
+DLV0289,2026-01-03,Selangor Hub,Klang,Motorcycle,100,107.0,2026-01-07,2026-01-07,Delivered,0,73.33
+DLV0290,2026-06-04,Selangor Hub,Petaling Jaya,Lorry,144,809.4,2026-06-05,2026-06-08,Delayed,3,229.41
+DLV0291,2026-03-04,Johor Hub,Pasir Gudang,Motorcycle,259,55.7,2026-03-05,2026-03-05,Delivered,0,182.15
+DLV0292,2026-07-04,Johor Hub,Kluang,Lorry,289,754.9,2026-07-05,2026-07-05,Delivered,0,472.22
+DLV0293,2026-08-24,Selangor Hub,Klang,Van,397,223.9,2026-08-25,2026-08-26,Delayed,1,443.05
+DLV0294,2026-05-10,Kedah Hub,Sungai Petani,Lorry,306,245.8,2026-05-11,,Cancelled,,500.76
+DLV0295,2026-09-30,Johor Hub,Johor Bahru,Motorcycle,285,190.2,2026-10-01,2026-10-01,Delivered,0,189.7
+DLV0296,2026-09-19,Selangor Hub,Shah Alam,Van,341,98.3,2026-09-21,2026-09-21,Delivered,0,370.88
+DLV0297,2026-04-22,Selangor Hub,Petaling Jaya,Van,263,38.9,2026-04-26,2026-04-26,Delivered,0,289.97
+DLV0298,2026-02-12,Selangor Hub,Klang,Lorry,47,198.9,2026-02-15,2026-02-15,Delivered,0,84.86
+DLV0299,2026-07-06,Kedah Hub,Kulim,Lorry,266,634.5,2026-07-08,,Cancelled,,437.63
+DLV0300,2026-08-07,Selangor Hub,Kajang,Motorcycle,273,273.6,2026-08-11,2026-08-11,Delivered,0,188.53
+DLV0301,2026-05-06,Selangor Hub,Petaling Jaya,Van,182,281.1,2026-05-08,2026-05-08,Delivered,0,214.84
+DLV0302,2026-03-29,Kedah Hub,Kulim,Motorcycle,214,130.6,2026-04-01,2026-04-02,Delivered,1,167.09
+DLV0303,2026-02-27,Kedah Hub,Kulim,Motorcycle,341,270.9,2026-02-28,2026-02-28,Delivered,0,244.71
+DLV0304,2026-01-04,Selangor Hub,Kajang,Motorcycle,96,176.6,2026-01-06,,Cancelled,,82.44
+DLV0305,2026-03-30,Johor Hub,Pasir Gudang,Motorcycle,278,138.2,2026-04-01,2026-04-01,Delivered,0,199.06
+DLV0306,2026-05-21,Selangor Hub,Petaling Jaya,Motorcycle,68,249.4,2026-05-22,2026-05-23,Delivered,1,69.13
+DLV0307,2026-02-03,Selangor Hub,Klang,Lorry,191,264.4,2026-02-06,2026-02-07,Delivered,1,317.01
+DLV0308,2026-06-14,Kedah Hub,Jitra,Motorcycle,404,106.5,2026-06-16,2026-06-17,Delivered,1,288.17
+DLV0309,2026-06-10,Kedah Hub,Jitra,Lorry,324,18.0,2026-06-11,2026-06-11,Delivered,0,525.44
+DLV0310,2026-06-06,Johor Hub,Kluang,Lorry,377,157.3,2026-06-08,2026-06-10,Delayed,2,588.41
+DLV0311,2026-08-17,Johor Hub,Johor Bahru,Van,185,109.8,2026-08-21,2026-08-22,Delivered,1,198.8
+DLV0312,2026-03-26,Kedah Hub,Kulim,Van,247,99.2,2026-03-27,2026-03-27,Delivered,0,283.64
+DLV0313,2026-05-08,Johor Hub,Batu Pahat,Van,209,67.4,2026-05-10,2026-05-10,Delivered,0,245.71
+DLV0314,2026-06-25,Johor Hub,Johor Bahru,Lorry,71,444.0,2026-06-28,2026-06-28,Delivered,0,117.9
+DLV0315,2026-03-29,Johor Hub,Kluang,Van,303,152.3,2026-04-02,,Cancelled,,325.14
+DLV0316,2026-05-20,Johor Hub,Kluang,Lorry,257,532.0,2026-05-23,2026-05-23,Delivered,0,413.14
+DLV0317,2026-08-01,Selangor Hub,Klang,Motorcycle,222,65.3,2026-08-05,2026-08-06,Delivered,1,150.33
+DLV0318,2026-01-17,Selangor Hub,Klang,Van,239,106.6,2026-01-19,2026-01-19,Delivered,0,273.81
+DLV0319,2026-02-11,Johor Hub,Kluang,Lorry,172,572.0,2026-02-13,2026-02-14,Delivered,1,293.77
+DLV0320,2026-03-10,Selangor Hub,Klang,Van,15,40.2,2026-03-14,2026-03-15,Delivered,1,30.49
+DLV0321,2026-06-28,Johor Hub,Pasir Gudang,Lorry,316,781.3,2026-07-01,,Cancelled,,507.45
+DLV0322,2026-02-08,Johor Hub,Batu Pahat,Van,98,74.7,2026-02-11,2026-02-11,Delivered,0,120.36
+DLV0323,2026-08-11,Kedah Hub,Jitra,Lorry,227,713.4,2026-08-13,2026-08-13,Delivered,0,366.64
+DLV0324,2026-04-27,Selangor Hub,Shah Alam,Lorry,166,798.7,2026-04-29,2026-04-30,Delivered,1,261.91
+DLV0325,2026-04-12,Kedah Hub,Jitra,Lorry,203,864.0,2026-04-16,2026-04-17,Delivered,1,339.23
+DLV0326,2026-04-24,Selangor Hub,Klang,Lorry,200,236.6,2026-04-26,2026-04-26,Delivered,0,328.66
+DLV0327,2026-06-11,Johor Hub,Johor Bahru,Motorcycle,338,114.1,2026-06-12,2026-06-11,Delivered,0,230.42
+DLV0328,2026-05-14,Kedah Hub,Kulim,Van,161,264.9,2026-05-15,2026-05-15,Delivered,0,177.96
+DLV0329,2026-02-25,Selangor Hub,Klang,Lorry,414,570.9,2026-02-26,2026-02-27,Delivered,1,646.12
+DLV0330,2026-05-31,Selangor Hub,Kajang,Lorry,245,30.8,2026-06-03,2026-06-03,Delivered,0,403.47
+DLV0331,2026-06-18,Kedah Hub,Sungai Petani,Lorry,241,331.4,2026-06-22,2026-06-22,Delivered,0,395.15
+DLV0332,2026-05-29,Johor Hub,Kluang,Lorry,81,254.4,2026-06-01,2026-06-01,Delivered,0,148.39
+DLV0333,2026-03-10,Selangor Hub,Klang,Lorry,247,60.0,2026-03-13,2026-03-13,Delivered,0,394.2
+DLV0334,2026-01-23,Kedah Hub,Sungai Petani,Motorcycle,184,163.7,2026-01-27,2026-01-26,Delivered,0,139.11
+DLV0335,2026-06-20,Kedah Hub,Sungai Petani,Van,414,178.6,2026-06-21,2026-06-21,Delivered,0,461.77
+DLV0336,2026-05-22,Selangor Hub,Shah Alam,Lorry,429,477.3,2026-05-26,2026-05-26,Delivered,0,675.29
+DLV0337,2026-04-12,Kedah Hub,Kulim,Motorcycle,256,240.1,2026-04-13,2026-04-16,Delayed,3,183.82
+DLV0338,2026-02-12,Kedah Hub,Jitra,Van,244,100.5,2026-02-15,2026-02-14,Delivered,0,278.67
+DLV0339,2026-09-13,Selangor Hub,Klang,Van,404,225.4,2026-09-17,2026-09-17,Delivered,0,440.12
+DLV0340,2026-02-17,Selangor Hub,Kajang,Van,51,35.6,2026-02-21,2026-02-21,Delivered,0,63.73
+DLV0341,2026-01-28,Johor Hub,Pasir Gudang,Van,51,42.2,2026-02-01,2026-02-03,Delayed,2,71.68
+DLV0342,2026-01-03,Kedah Hub,Sungai Petani,Motorcycle,314,128.8,2026-01-06,2026-01-06,Delivered,0,208.33
+DLV0343,2026-02-25,Johor Hub,Batu Pahat,Lorry,458,680.8,2026-03-01,2026-03-01,Delivered,0,723.32
+DLV0344,2026-05-16,Kedah Hub,Jitra,Lorry,104,113.8,2026-05-18,2026-05-18,Delivered,0,170.89
+DLV0345,2026-03-10,Selangor Hub,Kajang,Motorcycle,466,102.1,2026-03-13,,Cancelled,,325.55
+DLV0346,2026-01-14,Johor Hub,Pasir Gudang,Van,452,125.4,2026-01-18,2026-01-18,Delivered,0,486.12
+DLV0347,2026-09-07,Selangor Hub,Kajang,Van,217,19.6,2026-09-08,2026-09-08,Delivered,0,237.73
+DLV0348,2026-01-19,Kedah Hub,Kulim,Motorcycle,252,289.1,2026-01-21,2026-01-21,Delivered,0,188.07
+DLV0349,2026-02-14,Johor Hub,Pasir Gudang,Lorry,351,868.8,2026-02-17,2026-02-17,Delivered,0,572.0
+DLV0350,2026-01-27,Johor Hub,Kluang,Lorry,216,350.6,2026-01-30,2026-01-30,Delivered,0,356.95
+DLV0351,2026-01-31,Johor Hub,Kluang,Motorcycle,205,131.7,2026-02-04,2026-02-03,Delivered,0,142.01
+DLV0352,2026-09-21,Selangor Hub,Shah Alam,Van,308,49.8,2026-09-24,,Cancelled,,328.96
+DLV0353,2026-04-08,Johor Hub,Kluang,Lorry,351,273.7,2026-04-09,2026-04-09,Delivered,0,549.02
+DLV0354,2026-03-07,Kedah Hub,Kulim,Van,26,140.1,2026-03-10,2026-03-10,Delivered,0,38.83
+DLV0355,2026-01-02,Selangor Hub,Klang,Motorcycle,343,238.9,2026-01-03,2026-01-04,Delayed,1,239.6
+DLV0356,2026-02-17,Kedah Hub,Sungai Petani,Lorry,298,839.7,2026-02-21,2026-02-21,Delivered,0,476.0
+DLV0357,2026-01-07,Kedah Hub,Sungai Petani,Lorry,334,499.2,2026-01-08,2026-01-12,Delayed,4,535.76
+DLV0358,2026-09-29,Kedah Hub,Sungai Petani,Motorcycle,311,22.8,2026-10-03,,Cancelled,,217.57
+DLV0359,2026-04-14,Johor Hub,Pasir Gudang,Van,148,80.5,2026-04-15,2026-04-15,Delivered,0,172.79
+DLV0360,2026-06-17,Kedah Hub,Alor Setar,Lorry,22,184.5,2026-06-19,2026-06-18,Delivered,0,40.62
+DLV0361,2026-01-07,Selangor Hub,Klang,Lorry,319,874.3,2026-01-09,2026-01-09,Delivered,0,521.98
+DLV0362,2026-09-07,Selangor Hub,Klang,Lorry,149,649.0,2026-09-08,2026-09-08,Delivered,0,239.13
+DLV0363,2026-08-16,Johor Hub,Pasir Gudang,Motorcycle,435,13.3,2026-08-18,2026-08-18,Delivered,0,291.96
+DLV0364,2026-06-23,Selangor Hub,Shah Alam,Van,129,252.0,2026-06-26,2026-06-27,Delivered,1,162.95
+DLV0365,2026-04-23,Selangor Hub,Shah Alam,Lorry,189,5.0,2026-04-26,2026-04-26,Delivered,0,313.72
+DLV0366,2026-06-29,Kedah Hub,Sungai Petani,Van,133,144.7,2026-07-01,2026-07-02,Delivered,1,143.51
+DLV0367,2026-04-04,Kedah Hub,Sungai Petani,Van,336,299.0,2026-04-06,2026-04-06,Delivered,0,366.15
+DLV0368,2026-05-08,Selangor Hub,Shah Alam,Motorcycle,73,205.8,2026-05-11,2026-05-11,Delivered,0,64.05
+DLV0369,2026-07-19,Kedah Hub,Alor Setar,Lorry,266,765.0,2026-07-21,2026-07-21,Delivered,0,430.95
+DLV0370,2026-02-02,Selangor Hub,Shah Alam,Motorcycle,384,54.2,2026-02-04,2026-02-04,Delivered,0,275.73
+DLV0371,2026-01-25,Johor Hub,Batu Pahat,Van,36,90.6,2026-01-28,2026-01-28,Delivered,0,59.45
+DLV0372,2026-01-07,Selangor Hub,Petaling Jaya,Van,133,205.2,2026-01-08,2026-01-07,Delivered,0,152.03
+DLV0373,2026-03-16,Johor Hub,Kluang,Lorry,212,628.9,2026-03-20,2026-03-20,Delivered,0,351.79
+DLV0374,2026-05-27,Johor Hub,Kluang,Lorry,151,658.5,2026-05-29,2026-05-28,Delivered,0,245.58
+DLV0375,2026-08-20,Johor Hub,Pasir Gudang,Lorry,208,81.5,2026-08-22,2026-08-22,Delivered,0,346.86
+DLV0376,2026-02-09,Kedah Hub,Alor Setar,Lorry,251,535.7,2026-02-10,2026-02-10,Delivered,0,411.92
+DLV0377,2026-03-19,Selangor Hub,Klang,Van,93,4.9,2026-03-22,2026-03-21,Delivered,0,120.24
+DLV0378,2026-07-22,Selangor Hub,Petaling Jaya,Motorcycle,34,284.2,2026-07-24,2026-07-23,Delivered,0,39.75
+DLV0379,2026-04-21,Johor Hub,Johor Bahru,Motorcycle,157,290.6,2026-04-24,2026-04-23,Delivered,0,121.0
+DLV0380,2026-09-24,Selangor Hub,Shah Alam,Van,182,3.1,2026-09-27,2026-09-29,Delayed,2,205.75
+DLV0381,2026-04-24,Selangor Hub,Klang,Motorcycle,192,57.3,2026-04-25,2026-04-27,Delayed,2,142.12
+DLV0382,2026-03-31,Johor Hub,Batu Pahat,Motorcycle,236,13.8,2026-04-01,2026-04-01,Delivered,0,176.82
+DLV0383,2026-06-05,Johor Hub,Johor Bahru,Lorry,171,696.7,2026-06-08,2026-06-12,Delayed,4,278.3
+DLV0384,2026-06-17,Kedah Hub,Kulim,Motorcycle,404,228.7,2026-06-19,2026-06-19,Delivered,0,275.72
+DLV0385,2026-05-26,Johor Hub,Kluang,Lorry,250,208.4,2026-05-30,2026-05-30,Delivered,0,411.72
+DLV0386,2026-06-11,Kedah Hub,Kulim,Motorcycle,456,47.8,2026-06-14,2026-06-15,Delivered,1,301.27
+DLV0387,2026-05-23,Selangor Hub,Klang,Motorcycle,32,213.8,2026-05-26,2026-05-27,Delivered,1,32.75
+DLV0388,2026-05-20,Johor Hub,Pasir Gudang,Van,19,121.6,2026-05-22,2026-05-22,Delivered,0,43.5
+DLV0389,2026-04-09,Kedah Hub,Alor Setar,Lorry,99,572.6,2026-04-13,2026-04-13,Delivered,0,178.36
+DLV0390,2026-04-12,Kedah Hub,Sungai Petani,Lorry,261,520.2,2026-04-13,2026-04-12,Delivered,0,424.57
+DLV0391,2026-01-01,Johor Hub,Batu Pahat,Motorcycle,30,143.0,2026-01-05,2026-01-04,Delivered,0,45.5
+DLV0392,2026-04-02,Johor Hub,Batu Pahat,Lorry,461,811.1,2026-04-04,2026-04-04,Delivered,0,720.61
+DLV0393,2026-03-08,Kedah Hub,Sungai Petani,Lorry,290,881.6,2026-03-10,2026-03-10,Delivered,0,453.75
+DLV0394,2026-06-18,Selangor Hub,Kajang,Motorcycle,246,297.0,2026-06-19,2026-06-19,Delivered,0,174.88
+DLV0395,2026-01-30,Johor Hub,Pasir Gudang,Lorry,386,85.4,2026-01-31,2026-01-31,Delivered,0,621.08
+DLV0396,2026-05-09,Selangor Hub,Petaling Jaya,Van,358,37.4,2026-05-12,2026-05-16,Delayed,4,400.7
+DLV0397,2026-01-13,Selangor Hub,Petaling Jaya,Van,187,67.1,2026-01-14,2026-01-18,Delayed,4,222.14
+DLV0398,2026-03-31,Selangor Hub,Petaling Jaya,Van,189,8.5,2026-04-01,2026-04-01,Delivered,0,220.83
+DLV0399,2026-06-17,Kedah Hub,Alor Setar,Lorry,366,888.5,2026-06-21,2026-06-21,Delivered,0,589.0
+DLV0400,2026-06-16,Johor Hub,Kluang,Van,22,198.8,2026-06-19,2026-06-20,Delivered,1,37.46
+DLV0401,2026-08-28,Selangor Hub,Shah Alam,Lorry,108,838.3,2026-08-29,2026-08-29,Delivered,0,179.86
+DLV0402,2026-04-20,Johor Hub,Kluang,Van,131,237.4,2026-04-24,2026-04-24,Delivered,0,140.95
+DLV0403,2026-04-05,Johor Hub,Batu Pahat,Motorcycle,256,202.0,2026-04-07,2026-04-08,Delivered,1,191.86
+DLV0404,2026-04-22,Kedah Hub,Kulim,Van,33,79.2,2026-04-26,2026-04-26,Delivered,0,39.59
+DLV0405,2026-06-11,Johor Hub,Kluang,Motorcycle,375,175.0,2026-06-12,2026-06-15,Delayed,3,271.7
+DLV0406,2026-08-31,Selangor Hub,Petaling Jaya,Motorcycle,172,24.7,2026-09-03,2026-09-04,Delivered,1,129.24
+DLV0407,2026-04-08,Selangor Hub,Shah Alam,Van,293,251.7,2026-04-11,2026-04-15,Delayed,4,322.89
+DLV0408,2026-05-07,Selangor Hub,Klang,Motorcycle,248,268.8,2026-05-09,2026-05-10,Delivered,1,186.91
+DLV0409,2026-02-02,Selangor Hub,Petaling Jaya,Van,269,159.7,2026-02-06,2026-02-09,Delayed,3,295.48
+DLV0410,2026-05-25,Selangor Hub,Kajang,Van,190,163.6,2026-05-29,2026-05-29,Delivered,0,213.02
+DLV0411,2026-05-28,Selangor Hub,Klang,Van,410,81.1,2026-05-29,,Cancelled,,449.04
+DLV0412,2026-06-05,Kedah Hub,Sungai Petani,Motorcycle,477,12.4,2026-06-08,2026-06-08,Delivered,0,330.58
+DLV0413,2026-03-20,Kedah Hub,Alor Setar,Lorry,89,504.2,2026-03-24,2026-03-23,Delivered,0,159.36
+DLV0414,2026-03-26,Kedah Hub,Kulim,Lorry,171,660.2,2026-03-27,2026-03-31,Delayed,4,268.64
+DLV0415,2026-02-17,Johor Hub,Pasir Gudang,Lorry,384,552.8,2026-02-21,,Cancelled,,602.7
+DLV0416,2026-04-29,Johor Hub,Kluang,Van,100,169.5,2026-05-01,2026-05-01,Delivered,0,132.46
+DLV0417,2026-03-11,Kedah Hub,Kulim,Van,293,68.4,2026-03-12,2026-03-12,Delivered,0,331.27
+DLV0418,2026-05-24,Kedah Hub,Kulim,Lorry,207,174.6,2026-05-25,2026-05-25,Delivered,0,326.36
+DLV0419,2026-05-08,Kedah Hub,Alor Setar,Motorcycle,455,269.8,2026-05-11,,Cancelled,,302.56
+DLV0420,2026-02-01,Selangor Hub,Petaling Jaya,Motorcycle,214,62.0,2026-02-02,2026-02-02,Delivered,0,152.36
+DLV0421,2026-09-26,Johor Hub,Johor Bahru,Motorcycle,61,90.3,2026-09-30,2026-09-29,Delivered,0,42.92
+DLV0422,2026-09-16,Johor Hub,Johor Bahru,Van,393,75.1,2026-09-20,2026-09-19,Delivered,0,428.58
+DLV0423,2026-05-20,Johor Hub,Pasir Gudang,Van,17,126.9,2026-05-22,,Cancelled,,28.76
+DLV0424,2026-02-26,Kedah Hub,Jitra,Van,342,186.6,2026-02-28,2026-02-28,Delivered,0,368.39
+DLV0425,2026-07-28,Kedah Hub,Jitra,Motorcycle,415,57.2,2026-07-31,2026-07-30,Delivered,0,282.01
+DLV0426,2026-09-20,Johor Hub,Kluang,Lorry,119,107.6,2026-09-22,2026-09-22,Delivered,0,210.18
+DLV0427,2026-05-14,Kedah Hub,Jitra,Motorcycle,47,70.0,2026-05-18,2026-05-19,Delayed,1,39.69
+DLV0428,2026-01-05,Selangor Hub,Shah Alam,Motorcycle,424,59.1,2026-01-07,2026-01-06,Delivered,0,294.09
+DLV0429,2026-04-22,Johor Hub,Batu Pahat,Lorry,159,810.4,2026-04-26,2026-04-26,Delivered,0,253.15
+DLV0430,2026-03-18,Kedah Hub,Sungai Petani,Lorry,50,121.8,2026-03-21,2026-03-21,Delivered,0,85.68
+DLV0431,2026-01-03,Selangor Hub,Petaling Jaya,Motorcycle,244,153.4,2026-01-06,2026-01-05,Delivered,0,178.36
+DLV0432,2026-04-17,Kedah Hub,Alor Setar,Motorcycle,315,262.1,2026-04-20,2026-04-20,Delivered,0,208.64
+DLV0433,2026-06-19,Johor Hub,Pasir Gudang,Van,88,200.4,2026-06-22,2026-06-22,Delivered,0,117.28
+DLV0434,2026-01-18,Kedah Hub,Kulim,Motorcycle,157,139.2,2026-01-19,2026-01-19,Delivered,0,124.4
+DLV0435,2026-02-16,Kedah Hub,Alor Setar,Van,180,174.4,2026-02-18,2026-02-17,Delivered,0,207.32
+DLV0436,2026-04-20,Johor Hub,Batu Pahat,Van,185,155.3,2026-04-21,2026-04-22,Delivered,1,213.43
+DLV0437,2026-01-28,Selangor Hub,Kajang,Van,209,238.0,2026-01-29,2026-01-29,Delivered,0,233.27
+DLV0438,2026-02-03,Kedah Hub,Sungai Petani,Van,174,59.1,2026-02-04,2026-02-05,Delivered,1,185.85
+DLV0439,2026-04-09,Selangor Hub,Shah Alam,Motorcycle,260,163.5,2026-04-11,2026-04-15,Delayed,4,175.65
+DLV0440,2026-04-12,Kedah Hub,Jitra,Motorcycle,105,168.9,2026-04-16,2026-04-16,Delivered,0,80.28
+DLV0441,2026-05-27,Selangor Hub,Klang,Lorry,110,446.1,2026-05-31,2026-05-31,Delivered,0,195.36
+DLV0442,2026-04-03,Kedah Hub,Alor Setar,Motorcycle,306,32.0,2026-04-05,2026-04-06,Delivered,1,218.58
+DLV0443,2026-03-03,Johor Hub,Batu Pahat,Motorcycle,218,175.4,2026-03-04,2026-03-07,Delayed,3,148.05
+DLV0444,2026-02-21,Kedah Hub,Sungai Petani,Van,464,192.9,2026-02-22,2026-02-22,Delivered,0,493.96
+DLV0445,2026-07-03,Kedah Hub,Sungai Petani,Van,400,3.6,2026-07-04,2026-07-05,Delivered,1,424.56
+DLV0446,2026-04-06,Kedah Hub,Jitra,Van,121,156.1,2026-04-09,2026-04-08,Delivered,0,145.62
+DLV0447,2026-04-10,Kedah Hub,Kulim,Motorcycle,64,286.9,2026-04-13,2026-04-14,Delayed,1,58.42
+DLV0448,2026-09-21,Selangor Hub,Klang,Lorry,200,391.2,2026-09-23,2026-09-23,Delivered,0,331.96
+DLV0449,2026-07-31,Johor Hub,Johor Bahru,Lorry,370,283.6,2026-08-03,2026-08-03,Delivered,0,585.61
+DLV0450,2026-07-30,Johor Hub,Kluang,Van,45,156.7,2026-08-01,2026-08-01,Delivered,0,57.03
+DLV0451,2026-07-08,Kedah Hub,Kulim,Van,159,139.0,2026-07-11,2026-07-13,Delayed,2,182.87
+DLV0452,2026-03-22,Johor Hub,Johor Bahru,Motorcycle,260,239.6,2026-03-23,2026-03-23,Delivered,0,177.06
+DLV0453,2026-06-15,Selangor Hub,Kajang,Motorcycle,480,159.3,2026-06-19,2026-06-20,Delayed,1,322.95
+DLV0454,2026-03-12,Johor Hub,Kluang,Lorry,34,808.8,2026-03-13,2026-03-13,Delivered,0,59.06
+DLV0455,2026-02-11,Kedah Hub,Alor Setar,Motorcycle,278,180.0,2026-02-14,2026-02-14,Delivered,0,198.94
+DLV0456,2026-08-25,Kedah Hub,Sungai Petani,Motorcycle,21,261.3,2026-08-27,2026-08-27,Delivered,0,36.38
+DLV0457,2026-05-28,Johor Hub,Batu Pahat,Motorcycle,43,61.9,2026-05-29,2026-05-29,Delivered,0,48.78
+DLV0458,2026-04-20,Selangor Hub,Kajang,Motorcycle,393,287.1,2026-04-23,2026-04-24,Delivered,1,263.14
+DLV0459,2026-09-07,Selangor Hub,Klang,Lorry,421,691.6,2026-09-11,2026-09-11,Delivered,0,660.78
+DLV0460,2026-02-11,Kedah Hub,Sungai Petani,Van,324,119.8,2026-02-13,2026-02-13,Delivered,0,343.98
+DLV0461,2026-01-01,Johor Hub,Pasir Gudang,Motorcycle,333,245.0,2026-01-04,2026-01-04,Delivered,0,238.06
+DLV0462,2026-04-26,Johor Hub,Kluang,Motorcycle,432,135.6,2026-04-27,2026-04-28,Delivered,1,303.31
+DLV0463,2026-06-22,Kedah Hub,Jitra,Lorry,256,845.8,2026-06-25,2026-06-25,Delivered,0,419.91
+DLV0464,2026-01-31,Kedah Hub,Kulim,Motorcycle,117,94.0,2026-02-02,2026-02-03,Delivered,1,82.01
+DLV0465,2026-06-08,Selangor Hub,Shah Alam,Motorcycle,60,168.6,2026-06-12,2026-06-12,Delivered,0,57.79
+DLV0466,2026-03-18,Johor Hub,Johor Bahru,Motorcycle,323,9.9,2026-03-19,2026-03-19,Delivered,0,222.07
+DLV0467,2026-04-06,Kedah Hub,Alor Setar,Motorcycle,162,220.1,2026-04-09,2026-04-09,Delivered,0,130.64
+DLV0468,2026-05-19,Kedah Hub,Alor Setar,Van,476,63.1,2026-05-21,2026-05-22,Delivered,1,506.62
+DLV0469,2026-01-20,Selangor Hub,Petaling Jaya,Motorcycle,155,289.2,2026-01-23,2026-01-23,Delivered,0,118.37
+DLV0470,2026-07-02,Kedah Hub,Kulim,Motorcycle,201,113.1,2026-07-06,2026-07-06,Delivered,0,145.15
+DLV0471,2026-05-06,Selangor Hub,Klang,Van,432,66.4,2026-05-08,2026-05-08,Delivered,0,471.35
+DLV0472,2026-09-05,Johor Hub,Batu Pahat,Van,397,271.1,2026-09-09,2026-09-09,Delivered,0,439.98
+DLV0473,2026-05-21,Johor Hub,Pasir Gudang,Lorry,464,414.7,2026-05-24,2026-05-23,Delivered,0,722.49
+DLV0474,2026-06-16,Selangor Hub,Klang,Lorry,63,522.8,2026-06-18,2026-06-22,Delayed,4,117.19
+DLV0475,2026-03-01,Johor Hub,Pasir Gudang,Motorcycle,452,262.0,2026-03-05,2026-03-07,Delayed,2,317.91
+DLV0476,2026-04-24,Johor Hub,Pasir Gudang,Lorry,54,786.5,2026-04-27,2026-04-27,Delivered,0,97.46
+DLV0477,2026-08-13,Selangor Hub,Kajang,Van,17,9.8,2026-08-14,2026-08-15,Delivered,1,30.99
+DLV0478,2026-01-23,Johor Hub,Pasir Gudang,Motorcycle,440,269.8,2026-01-25,2026-01-25,Delivered,0,306.4
+DLV0479,2026-09-11,Kedah Hub,Kulim,Motorcycle,277,297.6,2026-09-12,2026-09-12,Delivered,0,187.54
+DLV0480,2026-02-21,Selangor Hub,Kajang,Van,408,138.4,2026-02-24,2026-02-25,Delivered,1,441.66
+DLV0481,2026-02-09,Selangor Hub,Klang,Lorry,399,102.5,2026-02-10,2026-02-13,Delayed,3,641.19
+DLV0482,2026-08-28,Kedah Hub,Kulim,Motorcycle,462,114.8,2026-08-30,2026-09-02,Delayed,3,324.56
+DLV0483,2026-03-22,Selangor Hub,Klang,Lorry,407,52.7,2026-03-26,2026-03-27,Delivered,1,638.63
+DLV0484,2026-06-28,Kedah Hub,Sungai Petani,Motorcycle,442,106.1,2026-06-30,2026-06-30,Delivered,0,307.12
+DLV0485,2026-04-11,Johor Hub,Pasir Gudang,Van,452,160.5,2026-04-12,2026-04-12,Delivered,0,500.38
+DLV0486,2026-06-21,Johor Hub,Batu Pahat,Lorry,479,862.1,2026-06-25,2026-06-28,Delayed,3,764.35
+DLV0487,2026-04-01,Kedah Hub,Jitra,Motorcycle,176,20.1,2026-04-02,2026-04-02,Delivered,0,138.6
+DLV0488,2026-01-11,Kedah Hub,Jitra,Motorcycle,316,248.9,2026-01-15,2026-01-15,Delivered,0,220.52
+DLV0489,2026-04-18,Kedah Hub,Kulim,Motorcycle,367,181.6,2026-04-22,2026-04-22,Delivered,0,264.8
+DLV0490,2026-05-07,Kedah Hub,Jitra,Lorry,392,366.2,2026-05-10,2026-05-10,Delivered,0,630.77
+DLV0491,2026-05-06,Johor Hub,Johor Bahru,Lorry,169,729.1,2026-05-09,2026-05-13,Delayed,4,281.94
+DLV0492,2026-07-17,Johor Hub,Kluang,Motorcycle,218,193.0,2026-07-18,2026-07-18,Delivered,0,159.2
+DLV0493,2026-06-17,Selangor Hub,Petaling Jaya,Motorcycle,214,210.6,2026-06-18,2026-06-18,Delivered,0,152.81
+DLV0494,2026-09-04,Selangor Hub,Kajang,Van,322,207.5,2026-09-05,2026-09-05,Delivered,0,346.87
+DLV0495,2026-06-14,Selangor Hub,Kajang,Lorry,465,354.3,2026-06-17,2026-06-17,Delivered,0,741.13
+DLV0496,2026-04-09,Johor Hub,Kluang,Lorry,73,443.7,2026-04-12,2026-04-13,Delivered,1,125.19
+DLV0497,2026-05-07,Selangor Hub,Klang,Lorry,254,800.0,2026-05-11,2026-05-11,Delivered,0,402.36
+DLV0498,2026-04-29,Selangor Hub,Shah Alam,Van,418,103.9,2026-04-30,2026-04-30,Delivered,0,458.82
+DLV0499,2026-04-23,Selangor Hub,Shah Alam,Lorry,123,278.9,2026-04-25,2026-04-24,Delivered,0,196.84
+DLV0500,2026-01-18,Johor Hub,Johor Bahru,Van,242,185.7,2026-01-21,2026-01-21,Delivered,0,280.23
+DLV0501,2026-07-31,Kedah Hub,Kulim,Van,278,102.6,2026-08-04,2026-08-06,Delayed,2,300.62
+DLV0502,2026-08-31,Johor Hub,Batu Pahat,Van,455,62.9,2026-09-04,2026-09-04,Delivered,0,484.59
+DLV0503,2026-06-06,Kedah Hub,Kulim,Van,418,130.9,2026-06-09,2026-06-09,Delivered,0,460.62
+DLV0504,2026-08-16,Johor Hub,Pasir Gudang,Van,318,35.3,2026-08-18,2026-08-18,Delivered,0,344.33
+DLV0505,2026-06-11,Kedah Hub,Sungai Petani,Lorry,39,366.5,2026-06-12,2026-06-12,Delivered,0,82.45
+DLV0506,2026-05-28,Kedah Hub,Jitra,Lorry,442,359.8,2026-06-01,2026-06-02,Delivered,1,706.75
+DLV0507,2026-08-31,Johor Hub,Batu Pahat,Lorry,272,106.6,2026-09-01,2026-09-01,Delivered,0,428.74
+DLV0508,2026-07-04,Kedah Hub,Jitra,Van,326,36.6,2026-07-06,2026-07-06,Delivered,0,348.93
+DLV0509,2026-01-06,Selangor Hub,Petaling Jaya,Lorry,346,505.1,2026-01-07,2026-01-08,Delivered,1,549.97
+DLV0510,2026-08-11,Johor Hub,Pasir Gudang,Van,349,68.1,2026-08-13,2026-08-15,Delayed,2,377.64
+DLV0511,2026-04-27,Selangor Hub,Petaling Jaya,Van,322,143.1,2026-04-30,2026-04-30,Delivered,0,359.33
+DLV0512,2026-04-02,Selangor Hub,Kajang,Van,310,117.3,2026-04-04,2026-04-05,Delivered,1,339.9
+DLV0513,2026-06-06,Johor Hub,Batu Pahat,Lorry,126,117.1,2026-06-08,,Cancelled,,215.23
+DLV0514,2026-03-29,Johor Hub,Kluang,Van,79,155.4,2026-03-30,2026-03-30,Delivered,0,104.57
+DLV0515,2026-09-01,Kedah Hub,Alor Setar,Van,459,225.5,2026-09-03,2026-09-04,Delivered,1,494.64
+DLV0516,2026-09-06,Kedah Hub,Kulim,Lorry,198,761.1,2026-09-08,2026-09-09,Delayed,1,330.14
+DLV0517,2026-07-31,Kedah Hub,Kulim,Motorcycle,189,166.0,2026-08-01,2026-08-01,Delivered,0,134.67
+DLV0518,2026-09-23,Kedah Hub,Sungai Petani,Motorcycle,451,201.3,2026-09-24,2026-09-25,Delivered,1,298.71
+DLV0519,2026-02-05,Johor Hub,Batu Pahat,Van,237,60.1,2026-02-08,,Cancelled,,255.74
+DLV0520,2026-05-24,Johor Hub,Kluang,Motorcycle,441,164.7,2026-05-28,2026-05-28,Delivered,0,297.81
+DLV0521,2026-07-12,Kedah Hub,Jitra,Van,83,138.1,2026-07-16,2026-07-17,Delivered,1,103.3
+DLV0522,2026-02-24,Johor Hub,Pasir Gudang,Lorry,429,336.5,2026-02-27,2026-02-27,Delivered,0,676.14
+DLV0523,2026-04-11,Johor Hub,Johor Bahru,Lorry,356,348.1,2026-04-12,2026-04-12,Delivered,0,568.76
+DLV0524,2026-01-13,Kedah Hub,Jitra,Lorry,315,769.0,2026-01-15,2026-01-15,Delivered,0,498.77
+DLV0525,2026-08-17,Kedah Hub,Jitra,Lorry,222,109.9,2026-08-19,2026-08-19,Delivered,0,357.43
+DLV0526,2026-05-27,Selangor Hub,Petaling Jaya,Lorry,452,179.8,2026-05-31,2026-05-30,Delivered,0,703.66
+DLV0527,2026-09-28,Johor Hub,Pasir Gudang,Lorry,234,603.9,2026-10-01,2026-10-01,Delivered,0,376.12
+DLV0528,2026-04-06,Johor Hub,Kluang,Motorcycle,444,251.7,2026-04-09,2026-04-09,Delivered,0,291.88
+DLV0529,2026-09-12,Kedah Hub,Kulim,Lorry,417,361.0,2026-09-16,2026-09-16,Delivered,0,657.58
+DLV0530,2026-02-09,Johor Hub,Kluang,Lorry,188,231.2,2026-02-12,2026-02-12,Delivered,0,303.24
+DLV0531,2026-08-14,Selangor Hub,Klang,Motorcycle,221,263.9,2026-08-16,2026-08-15,Delivered,0,154.17
+DLV0532,2026-01-20,Johor Hub,Pasir Gudang,Van,87,79.0,2026-01-22,2026-01-22,Delivered,0,111.42
+DLV0533,2026-05-07,Selangor Hub,Kajang,Van,400,244.7,2026-05-10,2026-05-10,Delivered,0,428.55
+DLV0534,2026-05-26,Selangor Hub,Shah Alam,Lorry,234,46.1,2026-05-30,2026-05-30,Delivered,0,377.47
+DLV0535,2026-02-27,Kedah Hub,Sungai Petani,Lorry,339,844.4,2026-03-01,,Cancelled,,532.97
+DLV0536,2026-03-12,Selangor Hub,Kajang,Motorcycle,473,159.8,2026-03-14,2026-03-13,Delivered,0,332.41
+DLV0537,2026-08-15,Selangor Hub,Klang,Motorcycle,139,237.4,2026-08-16,2026-08-16,Delivered,0,99.44
+DLV0538,2026-07-30,Selangor Hub,Shah Alam,Van,120,166.1,2026-08-03,2026-08-03,Delivered,0,136.58
+DLV0539,2026-01-24,Kedah Hub,Alor Setar,Van,452,117.6,2026-01-27,2026-01-28,Delivered,1,488.7
+DLV0540,2026-02-08,Kedah Hub,Jitra,Van,61,53.8,2026-02-10,2026-02-09,Delivered,0,75.75
+DLV0541,2026-06-24,Johor Hub,Kluang,Lorry,119,318.1,2026-06-28,2026-06-29,Delivered,1,202.99
+DLV0542,2026-03-19,Kedah Hub,Alor Setar,Van,216,14.4,2026-03-20,2026-03-20,Delivered,0,237.51
+DLV0543,2026-09-28,Kedah Hub,Kulim,Lorry,48,432.8,2026-09-30,2026-10-03,Delayed,3,83.56
+DLV0544,2026-09-28,Selangor Hub,Kajang,Motorcycle,175,178.0,2026-10-01,,Cancelled,,136.68
+DLV0545,2026-01-23,Kedah Hub,Alor Setar,Motorcycle,478,19.3,2026-01-24,2026-01-24,Delivered,0,322.6
+DLV0546,2026-01-19,Johor Hub,Johor Bahru,Lorry,53,899.3,2026-01-23,2026-01-24,Delivered,1,105.23
+DLV0547,2026-01-10,Selangor Hub,Shah Alam,Lorry,198,585.0,2026-01-12,2026-01-13,Delayed,1,327.96
+DLV0548,2026-09-28,Selangor Hub,Petaling Jaya,Motorcycle,124,271.2,2026-10-02,2026-10-02,Delivered,0,88.57
+DLV0549,2026-02-08,Johor Hub,Batu Pahat,Van,205,48.7,2026-02-11,2026-02-11,Delivered,0,225.73
+DLV0550,2026-04-10,Selangor Hub,Petaling Jaya,Van,287,139.2,2026-04-13,2026-04-13,Delivered,0,310.13
+DLV0551,2026-08-14,Johor Hub,Johor Bahru,Lorry,311,76.8,2026-08-17,2026-08-18,Delivered,1,495.33
+DLV0552,2026-06-23,Selangor Hub,Klang,Lorry,403,367.0,2026-06-26,2026-06-27,Delivered,1,629.31
+DLV0553,2026-06-29,Johor Hub,Batu Pahat,Motorcycle,336,160.2,2026-07-01,2026-07-03,Delayed,2,234.85
+DLV0554,2026-05-19,Selangor Hub,Petaling Jaya,Motorcycle,372,260.8,2026-05-21,2026-05-21,Delivered,0,260.05
+DLV0555,2026-06-13,Selangor Hub,Kajang,Van,207,19.8,2026-06-15,,Cancelled,,236.07
+DLV0556,2026-09-23,Selangor Hub,Petaling Jaya,Van,394,209.9,2026-09-27,2026-09-27,Delivered,0,427.27
+DLV0557,2026-01-05,Selangor Hub,Shah Alam,Van,361,209.4,2026-01-08,2026-01-11,Delayed,3,401.97
+DLV0558,2026-09-18,Selangor Hub,Kajang,Van,52,232.0,2026-09-21,2026-09-22,Delivered,1,81.67
+DLV0559,2026-08-10,Johor Hub,Johor Bahru,Lorry,301,82.6,2026-08-12,2026-08-12,Delivered,0,476.02
+DLV0560,2026-06-26,Selangor Hub,Klang,Motorcycle,174,261.3,2026-06-28,2026-06-28,Delivered,0,137.48
+DLV0561,2026-02-01,Johor Hub,Batu Pahat,Van,17,209.2,2026-02-04,2026-02-05,Delivered,1,44.21
+DLV0562,2026-04-10,Johor Hub,Johor Bahru,Lorry,234,462.5,2026-04-14,,Cancelled,,382.03
+DLV0563,2026-01-29,Johor Hub,Kluang,Motorcycle,83,32.3,2026-02-02,2026-02-02,Delivered,0,78.55
+DLV0564,2026-03-07,Johor Hub,Pasir Gudang,Motorcycle,350,125.8,2026-03-09,2026-03-09,Delivered,0,241.32
+DLV0565,2026-06-25,Kedah Hub,Kulim,Motorcycle,371,125.8,2026-06-29,2026-06-29,Delivered,0,244.86
+DLV0566,2026-05-01,Johor Hub,Batu Pahat,Motorcycle,230,64.9,2026-05-02,2026-05-02,Delivered,0,171.59
+DLV0567,2026-06-09,Kedah Hub,Kulim,Lorry,291,833.0,2026-06-11,2026-06-11,Delivered,0,463.39
+DLV0568,2026-02-05,Kedah Hub,Sungai Petani,Van,459,142.1,2026-02-08,2026-02-08,Delivered,0,491.05
+DLV0569,2026-07-07,Selangor Hub,Petaling Jaya,Lorry,475,665.7,2026-07-10,2026-07-10,Delivered,0,761.32
+DLV0570,2026-07-15,Selangor Hub,Kajang,Van,429,28.6,2026-07-18,2026-07-18,Delivered,0,475.76
+DLV0571,2026-07-11,Selangor Hub,Shah Alam,Van,129,115.9,2026-07-14,2026-07-14,Delivered,0,155.08
+DLV0572,2026-05-21,Johor Hub,Johor Bahru,Motorcycle,311,21.6,2026-05-23,2026-05-23,Delivered,0,222.24
+DLV0573,2026-06-12,Johor Hub,Batu Pahat,Motorcycle,423,57.0,2026-06-14,,Cancelled,,278.43
+DLV0574,2026-09-08,Selangor Hub,Shah Alam,Lorry,468,751.9,2026-09-11,2026-09-11,Delivered,0,743.05
+DLV0575,2026-04-21,Selangor Hub,Petaling Jaya,Lorry,142,257.4,2026-04-24,2026-04-24,Delivered,0,228.21
+DLV0576,2026-03-09,Johor Hub,Kluang,Van,88,107.3,2026-03-12,,Cancelled,,100.96
+DLV0577,2026-08-11,Johor Hub,Kluang,Van,105,87.2,2026-08-14,2026-08-14,Delivered,0,131.76
+DLV0578,2026-05-26,Johor Hub,Pasir Gudang,Van,94,169.4,2026-05-28,2026-05-30,Delayed,2,115.12
+DLV0579,2026-06-22,Kedah Hub,Kulim,Motorcycle,208,84.5,2026-06-25,2026-06-26,Delivered,1,143.37
+DLV0580,2026-08-20,Kedah Hub,Kulim,Lorry,270,510.9,2026-08-21,2026-08-20,Delivered,0,433.22
+DLV0581,2026-07-04,Selangor Hub,Petaling Jaya,Motorcycle,268,40.0,2026-07-08,,Cancelled,,188.67
+DLV0582,2026-04-27,Selangor Hub,Kajang,Van,149,31.4,2026-04-30,2026-04-30,Delivered,0,169.1
+DLV0583,2026-07-20,Selangor Hub,Kajang,Van,400,79.2,2026-07-22,2026-07-22,Delivered,0,430.5
+DLV0584,2026-09-09,Selangor Hub,Shah Alam,Lorry,177,484.0,2026-09-10,2026-09-10,Delivered,0,294.81
+DLV0585,2026-06-23,Selangor Hub,Klang,Motorcycle,122,266.6,2026-06-27,2026-06-26,Delivered,0,92.68
+DLV0586,2026-07-28,Kedah Hub,Jitra,Van,313,231.2,2026-07-31,2026-07-31,Delivered,0,341.09
+DLV0587,2026-08-28,Kedah Hub,Jitra,Lorry,378,860.6,2026-08-31,2026-08-31,Delivered,0,609.14
+DLV0588,2026-02-25,Kedah Hub,Alor Setar,Motorcycle,54,7.1,2026-02-26,2026-02-26,Delivered,0,42.0
+DLV0589,2026-06-04,Kedah Hub,Sungai Petani,Motorcycle,120,187.7,2026-06-06,2026-06-07,Delayed,1,87.96
+DLV0590,2026-01-23,Kedah Hub,Sungai Petani,Motorcycle,135,200.1,2026-01-24,2026-01-24,Delivered,0,99.3
+DLV0591,2026-08-10,Johor Hub,Johor Bahru,Lorry,204,631.9,2026-08-14,2026-08-14,Delivered,0,341.77
+DLV0592,2026-07-19,Selangor Hub,Shah Alam,Lorry,363,627.9,2026-07-22,2026-07-26,Delayed,4,575.11
+DLV0593,2026-03-26,Selangor Hub,Klang,Motorcycle,371,166.3,2026-03-30,2026-03-29,Delivered,0,252.23
+DLV0594,2026-07-13,Johor Hub,Batu Pahat,Lorry,218,246.9,2026-07-17,2026-07-18,Delayed,1,341.52
+DLV0595,2026-04-28,Selangor Hub,Klang,Van,121,15.4,2026-05-01,2026-05-02,Delivered,1,154.88
+DLV0596,2026-02-14,Selangor Hub,Shah Alam,Lorry,307,79.8,2026-02-15,2026-02-15,Delivered,0,490.35
+DLV0597,2026-01-17,Kedah Hub,Kulim,Lorry,211,324.0,2026-01-21,2026-01-22,Delayed,1,348.48
+DLV0598,2026-07-14,Johor Hub,Batu Pahat,Motorcycle,63,164.9,2026-07-16,2026-07-16,Delivered,0,51.2
+DLV0599,2026-06-14,Kedah Hub,Kulim,Van,436,14.2,2026-06-16,2026-06-16,Delivered,0,469.63
+DLV0600,2026-08-11,Kedah Hub,Sungai Petani,Lorry,445,330.5,2026-08-12,2026-08-16,Delayed,4,712.17
+DLV0601,2026-05-01,Selangor Hub,Kajang,Lorry,143,708.9,2026-05-02,2026-05-06,Delayed,4,229.45
+DLV0602,2026-03-03,Johor Hub,Batu Pahat,Lorry,73,393.5,2026-03-06,2026-03-06,Delivered,0,137.38
+DLV0603,2026-09-08,Kedah Hub,Kulim,Van,243,284.9,2026-09-09,2026-09-09,Delivered,0,274.53
+DLV0604,2026-01-12,Selangor Hub,Shah Alam,Motorcycle,75,16.8,2026-01-13,2026-01-13,Delivered,0,64.07
+DLV0605,2026-07-15,Johor Hub,Johor Bahru,Motorcycle,474,26.3,2026-07-18,2026-07-18,Delivered,0,318.7
+DLV0606,2026-05-31,Kedah Hub,Sungai Petani,Motorcycle,147,174.1,2026-06-02,2026-06-02,Delivered,0,112.07
+DLV0607,2026-07-17,Johor Hub,Batu Pahat,Motorcycle,36,18.5,2026-07-21,2026-07-22,Delivered,1,33.16
+DLV0608,2026-02-05,Kedah Hub,Alor Setar,Van,232,214.2,2026-02-06,2026-02-06,Delivered,0,265.69
+DLV0609,2026-03-06,Selangor Hub,Kajang,Motorcycle,30,213.7,2026-03-07,2026-03-07,Delivered,0,30.33
+DLV0610,2026-02-18,Selangor Hub,Kajang,Lorry,236,212.4,2026-02-19,,Cancelled,,376.57
+DLV0611,2026-09-20,Selangor Hub,Kajang,Lorry,433,886.3,2026-09-21,2026-09-22,Delivered,1,690.35
+DLV0612,2026-04-11,Johor Hub,Batu Pahat,Motorcycle,191,245.4,2026-04-14,2026-04-14,Delivered,0,131.83
+DLV0613,2026-08-28,Johor Hub,Johor Bahru,Motorcycle,346,268.2,2026-09-01,2026-09-01,Delivered,0,233.95
+DLV0614,2026-03-27,Kedah Hub,Jitra,Motorcycle,398,63.7,2026-03-30,,Cancelled,,274.81
+DLV0615,2026-03-14,Selangor Hub,Shah Alam,Van,73,18.9,2026-03-17,2026-03-18,Delivered,1,88.26
+DLV0616,2026-03-02,Kedah Hub,Jitra,Motorcycle,188,49.2,2026-03-06,2026-03-06,Delivered,0,140.14
+DLV0617,2026-02-14,Selangor Hub,Shah Alam,Motorcycle,281,233.9,2026-02-15,2026-02-14,Delivered,0,192.72
+DLV0618,2026-07-15,Selangor Hub,Kajang,Van,186,180.1,2026-07-17,2026-07-18,Delivered,1,211.11
+DLV0619,2026-03-01,Selangor Hub,Klang,Motorcycle,199,85.7,2026-03-04,2026-03-05,Delivered,1,141.16
+DLV0620,2026-04-25,Johor Hub,Kluang,Motorcycle,100,80.6,2026-04-28,2026-04-28,Delivered,0,76.43
+DLV0621,2026-03-02,Selangor Hub,Petaling Jaya,Van,289,86.8,2026-03-06,,Cancelled,,317.01
+DLV0622,2026-09-22,Johor Hub,Kluang,Lorry,335,128.1,2026-09-23,2026-09-24,Delivered,1,538.1
+DLV0623,2026-07-18,Johor Hub,Pasir Gudang,Motorcycle,253,33.5,2026-07-21,2026-07-21,Delivered,0,174.77
+DLV0624,2026-06-20,Kedah Hub,Kulim,Van,449,149.8,2026-06-22,2026-06-22,Delivered,0,481.13
+DLV0625,2026-03-20,Kedah Hub,Jitra,Lorry,200,748.4,2026-03-21,2026-03-21,Delivered,0,326.55
+DLV0626,2026-04-07,Selangor Hub,Kajang,Motorcycle,155,49.3,2026-04-09,,Cancelled,,115.51
+DLV0627,2026-06-15,Kedah Hub,Alor Setar,Lorry,159,23.9,2026-06-17,2026-06-17,Delivered,0,273.8
+DLV0628,2026-05-26,Selangor Hub,Shah Alam,Lorry,430,771.1,2026-05-27,2026-05-28,Delivered,1,689.02
+DLV0629,2026-05-15,Kedah Hub,Alor Setar,Lorry,239,435.7,2026-05-18,2026-05-22,Delayed,4,383.22
+DLV0630,2026-04-12,Johor Hub,Pasir Gudang,Lorry,359,548.7,2026-04-13,2026-04-12,Delivered,0,570.86
+DLV0631,2026-09-05,Kedah Hub,Sungai Petani,Van,207,39.8,2026-09-06,2026-09-08,Delayed,2,228.35
+DLV0632,2026-07-15,Selangor Hub,Petaling Jaya,Lorry,51,137.4,2026-07-16,2026-07-16,Delivered,0,95.62
+DLV0633,2026-09-27,Selangor Hub,Kajang,Van,260,224.2,2026-09-30,2026-10-03,Delayed,3,292.26
+DLV0634,2026-02-28,Kedah Hub,Alor Setar,Lorry,21,171.6,2026-03-03,2026-03-03,Delivered,0,37.22
+DLV0635,2026-02-25,Kedah Hub,Jitra,Van,432,141.5,2026-02-27,2026-02-28,Delayed,1,458.63
+DLV0636,2026-08-16,Johor Hub,Johor Bahru,Motorcycle,419,234.2,2026-08-19,2026-08-19,Delivered,0,296.42
+DLV0637,2026-08-25,Selangor Hub,Petaling Jaya,Van,397,218.1,2026-08-26,2026-08-25,Delivered,0,437.1
+DLV0638,2026-06-01,Selangor Hub,Klang,Motorcycle,440,113.6,2026-06-03,2026-06-03,Delivered,0,303.91
+DLV0639,2026-03-02,Johor Hub,Kluang,Motorcycle,382,128.6,2026-03-04,2026-03-04,Delivered,0,261.09
+DLV0640,2026-08-15,Kedah Hub,Alor Setar,Van,307,87.2,2026-08-16,2026-08-16,Delivered,0,329.05
+DLV0641,2026-07-08,Johor Hub,Batu Pahat,Van,311,226.0,2026-07-09,2026-07-09,Delivered,0,345.95
+DLV0642,2026-09-17,Selangor Hub,Shah Alam,Lorry,41,685.5,2026-09-18,2026-09-18,Delivered,0,72.8
+DLV0643,2026-04-26,Kedah Hub,Jitra,Motorcycle,253,171.3,2026-04-28,2026-04-28,Delivered,0,179.14
+DLV0644,2026-08-20,Kedah Hub,Jitra,Van,172,214.6,2026-08-21,2026-08-22,Delivered,1,192.89
+DLV0645,2026-03-12,Selangor Hub,Shah Alam,Motorcycle,443,262.4,2026-03-15,2026-03-15,Delivered,0,314.38
+DLV0646,2026-05-30,Selangor Hub,Petaling Jaya,Motorcycle,391,290.3,2026-06-02,,Cancelled,,270.81
+DLV0647,2026-06-16,Selangor Hub,Kajang,Lorry,156,82.0,2026-06-20,2026-06-20,Delivered,0,259.78
+DLV0648,2026-08-14,Johor Hub,Kluang,Motorcycle,62,177.5,2026-08-15,2026-08-15,Delivered,0,61.88
+DLV0649,2026-03-22,Kedah Hub,Alor Setar,Van,230,182.6,2026-03-25,2026-03-25,Delivered,0,263.41
+DLV0650,2026-08-30,Kedah Hub,Kulim,Lorry,67,4.0,2026-08-31,2026-09-01,Delivered,1,111.09
+DLV0651,2026-05-14,Johor Hub,Batu Pahat,Motorcycle,335,95.4,2026-05-16,2026-05-16,Delivered,0,234.03
+DLV0652,2026-08-15,Johor Hub,Pasir Gudang,Motorcycle,320,226.3,2026-08-16,2026-08-17,Delivered,1,220.81
+DLV0653,2026-03-09,Johor Hub,Pasir Gudang,Motorcycle,456,51.3,2026-03-12,2026-03-12,Delivered,0,310.72
+DLV0654,2026-05-24,Selangor Hub,Shah Alam,Van,168,241.5,2026-05-28,2026-05-28,Delivered,0,188.04
+DLV0655,2026-04-04,Johor Hub,Johor Bahru,Motorcycle,309,297.6,2026-04-08,2026-04-08,Delivered,0,216.27
+DLV0656,2026-09-26,Kedah Hub,Sungai Petani,Van,38,84.0,2026-09-30,2026-10-01,Delivered,1,59.39
+DLV0657,2026-05-09,Kedah Hub,Sungai Petani,Lorry,452,321.0,2026-05-13,,Cancelled,,726.72
+DLV0658,2026-07-28,Johor Hub,Johor Bahru,Van,478,178.0,2026-07-30,2026-07-30,Delivered,0,529.65
+DLV0659,2026-06-17,Selangor Hub,Kajang,Motorcycle,441,130.8,2026-06-20,,Cancelled,,295.51
+DLV0660,2026-03-11,Kedah Hub,Alor Setar,Motorcycle,448,82.5,2026-03-12,2026-03-12,Delivered,0,310.86
+DLV0661,2026-09-17,Johor Hub,Kluang,Motorcycle,326,69.5,2026-09-18,2026-09-18,Delivered,0,228.82
+DLV0662,2026-02-20,Kedah Hub,Kulim,Lorry,236,178.8,2026-02-22,2026-02-23,Delayed,1,389.44
+DLV0663,2026-07-31,Johor Hub,Batu Pahat,Van,339,33.0,2026-08-03,2026-08-03,Delivered,0,376.33
+DLV0664,2026-05-01,Johor Hub,Pasir Gudang,Lorry,296,529.8,2026-05-03,2026-05-02,Delivered,0,475.62
+DLV0665,2026-08-19,Kedah Hub,Alor Setar,Van,345,210.9,2026-08-23,2026-08-23,Delivered,0,368.32
+DLV0666,2026-03-09,Selangor Hub,Kajang,Lorry,94,485.9,2026-03-13,2026-03-13,Delivered,0,164.95
+DLV0667,2026-03-20,Johor Hub,Johor Bahru,Motorcycle,115,259.6,2026-03-24,2026-03-25,Delivered,1,78.06
+DLV0668,2026-08-11,Selangor Hub,Petaling Jaya,Motorcycle,271,67.6,2026-08-15,2026-08-15,Delivered,0,203.2
+DLV0669,2026-04-29,Selangor Hub,Klang,Van,57,97.0,2026-05-01,2026-05-04,Delayed,3,67.96
+DLV0670,2026-02-12,Kedah Hub,Alor Setar,Lorry,379,574.6,2026-02-13,2026-02-13,Delivered,0,604.4
+DLV0671,2026-07-24,Selangor Hub,Shah Alam,Lorry,244,784.9,2026-07-26,2026-07-25,Delivered,0,389.28
+DLV0672,2026-03-01,Kedah Hub,Jitra,Lorry,454,264.1,2026-03-03,2026-03-03,Delivered,0,719.78
+DLV0673,2026-08-30,Johor Hub,Johor Bahru,Van,369,114.7,2026-09-01,2026-08-31,Delivered,0,395.73
+DLV0674,2026-05-12,Kedah Hub,Alor Setar,Lorry,86,24.4,2026-05-16,2026-05-16,Delivered,0,160.95
+DLV0675,2026-01-24,Johor Hub,Batu Pahat,Motorcycle,103,274.1,2026-01-28,,Cancelled,,81.98
+DLV0676,2026-05-08,Selangor Hub,Petaling Jaya,Lorry,145,769.1,2026-05-09,2026-05-10,Delayed,1,235.69
+DLV0677,2026-01-13,Kedah Hub,Jitra,Lorry,286,786.1,2026-01-14,2026-01-13,Delivered,0,469.43
+DLV0678,2026-09-24,Kedah Hub,Alor Setar,Motorcycle,340,212.5,2026-09-28,2026-09-28,Delivered,0,230.68
+DLV0679,2026-05-16,Selangor Hub,Shah Alam,Van,126,248.9,2026-05-20,2026-05-20,Delivered,0,142.97
+DLV0680,2026-01-30,Johor Hub,Kluang,Lorry,398,23.4,2026-01-31,2026-02-01,Delayed,1,633.66
+DLV0681,2026-03-11,Kedah Hub,Kulim,Motorcycle,278,243.7,2026-03-13,2026-03-14,Delivered,1,183.93
+DLV0682,2026-03-04,Johor Hub,Batu Pahat,Van,92,200.9,2026-03-06,,Cancelled,,123.48
+DLV0683,2026-02-04,Selangor Hub,Kajang,Van,233,254.1,2026-02-07,2026-02-07,Delivered,0,261.29
+DLV0684,2026-07-22,Kedah Hub,Kulim,Lorry,253,279.3,2026-07-24,2026-07-25,Delivered,1,417.67
+DLV0685,2026-02-01,Kedah Hub,Sungai Petani,Motorcycle,417,262.8,2026-02-04,2026-02-05,Delayed,1,286.03
+DLV0686,2026-02-18,Kedah Hub,Jitra,Van,40,129.3,2026-02-22,2026-02-22,Delivered,0,63.0
+DLV0687,2026-03-09,Johor Hub,Kluang,Motorcycle,222,104.8,2026-03-10,2026-03-10,Delivered,0,164.89
+DLV0688,2026-02-22,Kedah Hub,Alor Setar,Van,260,80.8,2026-02-26,2026-02-26,Delivered,0,277.79
+DLV0689,2026-04-30,Johor Hub,Batu Pahat,Van,290,118.8,2026-05-01,2026-05-01,Delivered,0,308.9
+DLV0690,2026-06-24,Selangor Hub,Klang,Van,199,221.5,2026-06-26,2026-06-26,Delivered,0,216.53
+DLV0691,2026-04-08,Kedah Hub,Jitra,Motorcycle,378,62.0,2026-04-09,,Cancelled,,258.52
+DLV0692,2026-02-25,Kedah Hub,Sungai Petani,Lorry,41,345.8,2026-03-01,2026-03-02,Delivered,1,89.17
+DLV0693,2026-08-23,Johor Hub,Pasir Gudang,Van,395,141.4,2026-08-25,2026-08-25,Delivered,0,439.24
+DLV0694,2026-06-24,Selangor Hub,Petaling Jaya,Motorcycle,362,158.4,2026-06-27,2026-06-27,Delivered,0,242.81
+DLV0695,2026-04-12,Selangor Hub,Petaling Jaya,Van,408,297.8,2026-04-13,2026-04-13,Delivered,0,446.34
+DLV0696,2026-07-29,Johor Hub,Kluang,Lorry,321,788.4,2026-07-31,2026-07-31,Delivered,0,524.99
+DLV0697,2026-06-15,Selangor Hub,Petaling Jaya,Motorcycle,15,116.2,2026-06-16,2026-06-16,Delivered,0,22.98
+DLV0698,2026-04-19,Selangor Hub,Klang,Motorcycle,105,266.7,2026-04-22,2026-04-22,Delivered,0,88.58
+DLV0699,2026-03-09,Kedah Hub,Alor Setar,Lorry,271,139.1,2026-03-12,2026-03-11,Delivered,0,443.89
+DLV0700,2026-01-21,Johor Hub,Batu Pahat,Lorry,425,87.7,2026-01-22,2026-01-23,Delivered,1,674.34
+DLV0701,2026-01-15,Selangor Hub,Klang,Van,342,266.3,2026-01-16,2026-01-16,Delivered,0,368.96
+DLV0702,2026-08-13,Kedah Hub,Alor Setar,Motorcycle,455,64.0,2026-08-17,,Cancelled,,322.2
+DLV0703,2026-09-26,Selangor Hub,Kajang,Van,290,115.9,2026-09-27,2026-09-27,Delivered,0,314.12
+DLV0704,2026-06-08,Selangor Hub,Kajang,Van,123,94.7,2026-06-12,2026-06-12,Delivered,0,150.56
+DLV0705,2026-05-06,Kedah Hub,Kulim,Van,280,234.6,2026-05-10,,Cancelled,,309.5
+DLV0706,2026-02-01,Selangor Hub,Klang,Motorcycle,48,174.8,2026-02-02,2026-02-02,Delivered,0,50.22
+DLV0707,2026-01-09,Johor Hub,Johor Bahru,Van,340,170.1,2026-01-11,2026-01-11,Delivered,0,382.98
+DLV0708,2026-09-01,Johor Hub,Kluang,Van,276,261.6,2026-09-02,2026-09-01,Delivered,0,293.2
+DLV0709,2026-09-24,Selangor Hub,Shah Alam,Lorry,51,75.2,2026-09-28,2026-09-29,Delivered,1,87.87
+DLV0710,2026-02-07,Johor Hub,Kluang,Van,126,173.0,2026-02-11,2026-02-12,Delayed,1,154.44
+DLV0711,2026-09-14,Johor Hub,Batu Pahat,Lorry,242,735.5,2026-09-18,2026-09-18,Delivered,0,382.14
+DLV0712,2026-02-03,Selangor Hub,Klang,Motorcycle,436,23.9,2026-02-04,2026-02-05,Delayed,1,303.84
+DLV0713,2026-02-20,Kedah Hub,Alor Setar,Lorry,468,414.1,2026-02-21,2026-02-21,Delivered,0,746.69
+DLV0714,2026-07-25,Johor Hub,Batu Pahat,Motorcycle,172,65.7,2026-07-26,2026-07-26,Delivered,0,128.25
+DLV0715,2026-03-24,Selangor Hub,Petaling Jaya,Lorry,322,50.1,2026-03-26,2026-03-26,Delivered,0,510.28
+DLV0716,2026-06-04,Johor Hub,Pasir Gudang,Lorry,434,3.0,2026-06-07,2026-06-07,Delivered,0,682.1
+DLV0717,2026-05-02,Kedah Hub,Sungai Petani,Van,172,121.4,2026-05-05,2026-05-04,Delivered,0,203.21
+DLV0718,2026-05-16,Selangor Hub,Klang,Van,378,286.3,2026-05-18,2026-05-18,Delivered,0,401.29
+DLV0719,2026-01-08,Johor Hub,Batu Pahat,Lorry,65,386.0,2026-01-09,2026-01-10,Delivered,1,106.77
+DLV0720,2026-04-29,Johor Hub,Kluang,Lorry,440,443.4,2026-05-01,2026-05-01,Delivered,0,706.17
+DLV0721,2026-03-05,Johor Hub,Johor Bahru,Van,343,230.9,2026-03-09,2026-03-08,Delivered,0,386.36
+DLV0722,2026-01-25,Kedah Hub,Sungai Petani,Motorcycle,160,212.0,2026-01-29,,Cancelled,,122.72
+DLV0723,2026-06-17,Johor Hub,Pasir Gudang,Van,257,105.8,2026-06-18,2026-06-19,Delayed,1,297.3
+DLV0724,2026-08-18,Selangor Hub,Petaling Jaya,Lorry,438,52.0,2026-08-20,2026-08-19,Delivered,0,687.25
+DLV0725,2026-06-30,Johor Hub,Pasir Gudang,Van,392,213.1,2026-07-01,2026-07-02,Delivered,1,420.17
+DLV0726,2026-08-31,Selangor Hub,Klang,Van,284,217.9,2026-09-03,2026-09-04,Delivered,1,308.97
+DLV0727,2026-01-17,Selangor Hub,Shah Alam,Lorry,230,111.3,2026-01-19,2026-01-18,Delivered,0,371.0
+DLV0728,2026-09-14,Johor Hub,Pasir Gudang,Van,146,167.2,2026-09-15,2026-09-15,Delivered,0,180.09
+DLV0729,2026-07-14,Selangor Hub,Shah Alam,Motorcycle,423,51.1,2026-07-16,2026-07-17,Delivered,1,299.46
+DLV0730,2026-04-03,Selangor Hub,Petaling Jaya,Van,280,136.2,2026-04-07,2026-04-07,Delivered,0,318.81
+DLV0731,2026-06-13,Johor Hub,Johor Bahru,Motorcycle,241,108.1,2026-06-14,2026-06-14,Delivered,0,171.01
+DLV0732,2026-01-06,Selangor Hub,Petaling Jaya,Lorry,154,846.9,2026-01-09,2026-01-09,Delivered,0,264.09
+DLV0733,2026-02-24,Johor Hub,Pasir Gudang,Van,347,249.8,2026-02-25,2026-02-26,Delivered,1,378.88
+DLV0734,2026-04-14,Kedah Hub,Kulim,Motorcycle,447,144.6,2026-04-16,2026-04-15,Delivered,0,301.13
+DLV0735,2026-03-25,Johor Hub,Kluang,Motorcycle,83,67.1,2026-03-26,2026-03-25,Delivered,0,75.18
+DLV0736,2026-08-27,Johor Hub,Batu Pahat,Lorry,94,4.4,2026-08-29,2026-08-30,Delivered,1,164.62
+DLV0737,2026-01-06,Kedah Hub,Kulim,Lorry,228,195.9,2026-01-09,2026-01-10,Delivered,1,374.05
+DLV0738,2026-05-03,Johor Hub,Kluang,Lorry,130,709.8,2026-05-07,2026-05-07,Delivered,0,223.46
+DLV0739,2026-07-22,Selangor Hub,Shah Alam,Motorcycle,255,273.7,2026-07-26,2026-07-26,Delivered,0,182.1
+DLV0740,2026-06-23,Selangor Hub,Kajang,Motorcycle,42,116.5,2026-06-25,2026-06-24,Delivered,0,44.41
+DLV0741,2026-08-10,Selangor Hub,Kajang,Lorry,124,19.7,2026-08-14,2026-08-14,Delivered,0,212.23
+DLV0742,2026-03-20,Johor Hub,Batu Pahat,Motorcycle,149,253.4,2026-03-24,2026-03-24,Delivered,0,122.73
+DLV0743,2026-07-19,Kedah Hub,Kulim,Motorcycle,55,137.7,2026-07-20,2026-07-21,Delivered,1,61.37
+DLV0744,2026-05-16,Selangor Hub,Petaling Jaya,Van,190,262.3,2026-05-17,2026-05-17,Delivered,0,219.81
+DLV0745,2026-01-27,Kedah Hub,Sungai Petani,Van,307,31.7,2026-01-31,2026-01-31,Delivered,0,346.35
+DLV0746,2026-06-06,Johor Hub,Johor Bahru,Van,257,144.8,2026-06-07,2026-06-08,Delivered,1,278.92
+DLV0747,2026-01-24,Selangor Hub,Shah Alam,Lorry,373,821.0,2026-01-26,2026-01-26,Delivered,0,589.23
+DLV0748,2026-06-01,Kedah Hub,Jitra,Lorry,160,180.2,2026-06-02,2026-06-03,Delayed,1,272.14
+DLV0749,2026-03-20,Selangor Hub,Petaling Jaya,Van,111,12.9,2026-03-24,2026-03-24,Delivered,0,121.79
+DLV0750,2026-05-06,Selangor Hub,Shah Alam,Motorcycle,358,115.4,2026-05-10,,Cancelled,,255.94
+DLV0751,2026-06-10,Johor Hub,Batu Pahat,Van,151,125.6,2026-06-11,2026-06-12,Delayed,1,161.75
+DLV0752,2026-02-28,Selangor Hub,Kajang,Van,376,118.0,2026-03-02,2026-03-01,Delivered,0,421.04
+DLV0753,2026-06-14,Johor Hub,Kluang,Van,377,155.0,2026-06-16,2026-06-16,Delivered,0,399.28
+DLV0754,2026-06-27,Johor Hub,Batu Pahat,Lorry,41,587.7,2026-06-30,2026-06-30,Delivered,0,75.13
+DLV0755,2026-02-04,Selangor Hub,Shah Alam,Motorcycle,48,276.3,2026-02-06,2026-02-06,Delivered,0,44.13
+DLV0756,2026-07-31,Johor Hub,Pasir Gudang,Lorry,396,612.0,2026-08-02,2026-08-02,Delivered,0,641.45
+DLV0757,2026-04-27,Kedah Hub,Kulim,Van,197,252.5,2026-05-01,2026-05-01,Delivered,0,216.82
+DLV0758,2026-05-31,Selangor Hub,Shah Alam,Van,414,82.3,2026-06-04,2026-06-03,Delivered,0,457.18
+DLV0759,2026-02-08,Johor Hub,Johor Bahru,Van,283,242.1,2026-02-09,2026-02-10,Delivered,1,303.2
+DLV0760,2026-06-23,Selangor Hub,Petaling Jaya,Motorcycle,419,149.1,2026-06-26,2026-06-27,Delivered,1,291.68
+DLV0761,2026-09-27,Johor Hub,Johor Bahru,Van,382,87.6,2026-09-29,2026-09-28,Delivered,0,420.77
+DLV0762,2026-04-01,Kedah Hub,Sungai Petani,Van,406,64.8,2026-04-02,,Cancelled,,435.76
+DLV0763,2026-05-23,Selangor Hub,Klang,Lorry,264,272.1,2026-05-25,2026-05-25,Delivered,0,422.81
+DLV0764,2026-05-25,Kedah Hub,Kulim,Lorry,438,138.9,2026-05-28,2026-05-28,Delivered,0,689.58
+DLV0765,2026-01-21,Johor Hub,Johor Bahru,Motorcycle,294,284.3,2026-01-22,,Cancelled,,200.8
+DLV0766,2026-08-04,Selangor Hub,Petaling Jaya,Motorcycle,387,121.6,2026-08-07,2026-08-07,Delivered,0,275.36
+DLV0767,2026-04-30,Selangor Hub,Kajang,Van,471,279.6,2026-05-02,2026-05-03,Delayed,1,504.5
+DLV0768,2026-01-12,Selangor Hub,Klang,Van,100,235.5,2026-01-15,2026-01-15,Delivered,0,124.41
+DLV0769,2026-06-22,Johor Hub,Batu Pahat,Van,90,296.9,2026-06-25,2026-06-25,Delivered,0,114.94
+DLV0770,2026-05-11,Johor Hub,Batu Pahat,Van,170,112.5,2026-05-14,2026-05-14,Delivered,0,185.0
+DLV0771,2026-05-03,Selangor Hub,Klang,Lorry,199,307.8,2026-05-07,2026-05-07,Delivered,0,327.58
+DLV0772,2026-04-09,Selangor Hub,Petaling Jaya,Motorcycle,229,235.3,2026-04-13,2026-04-13,Delivered,0,171.31
+DLV0773,2026-02-08,Selangor Hub,Klang,Van,55,11.3,2026-02-11,2026-02-11,Delivered,0,75.85
+DLV0774,2026-01-19,Johor Hub,Kluang,Lorry,33,411.4,2026-01-20,2026-01-20,Delivered,0,61.24
+DLV0775,2026-04-24,Johor Hub,Pasir Gudang,Van,198,27.9,2026-04-25,2026-04-25,Delivered,0,234.79
+DLV0776,2026-07-26,Johor Hub,Pasir Gudang,Motorcycle,447,252.2,2026-07-27,2026-07-26,Delivered,0,294.5
+DLV0777,2026-09-24,Johor Hub,Batu Pahat,Van,317,230.3,2026-09-28,2026-09-28,Delivered,0,360.19
+DLV0778,2026-01-05,Johor Hub,Pasir Gudang,Van,231,99.2,2026-01-07,,Cancelled,,260.03
+DLV0779,2026-03-03,Kedah Hub,Kulim,Van,389,236.3,2026-03-05,2026-03-05,Delivered,0,433.56
+DLV0780,2026-02-17,Kedah Hub,Jitra,Motorcycle,373,227.4,2026-02-18,2026-02-18,Delivered,0,249.39
+DLV0781,2026-08-09,Johor Hub,Kluang,Van,436,96.0,2026-08-10,2026-08-11,Delayed,1,466.94
+DLV0782,2026-02-07,Selangor Hub,Shah Alam,Motorcycle,424,220.3,2026-02-09,2026-02-09,Delivered,0,289.8
+DLV0783,2026-06-17,Johor Hub,Kluang,Van,197,170.9,2026-06-21,,Cancelled,,216.81
+DLV0784,2026-04-09,Johor Hub,Pasir Gudang,Van,104,118.1,2026-04-11,2026-04-11,Delivered,0,136.12
+DLV0785,2026-09-25,Kedah Hub,Jitra,Van,449,174.9,2026-09-27,2026-09-30,Delayed,3,494.25
+DLV0786,2026-08-21,Kedah Hub,Kulim,Motorcycle,270,294.1,2026-08-25,2026-08-24,Delivered,0,203.36
+DLV0787,2026-04-13,Kedah Hub,Alor Setar,Motorcycle,366,129.4,2026-04-14,2026-04-13,Delivered,0,252.3
+DLV0788,2026-02-25,Kedah Hub,Sungai Petani,Lorry,216,604.5,2026-02-26,2026-02-27,Delivered,1,347.53
+DLV0789,2026-08-09,Selangor Hub,Klang,Lorry,234,263.4,2026-08-13,2026-08-13,Delivered,0,367.79
+DLV0790,2026-05-01,Kedah Hub,Sungai Petani,Lorry,51,689.9,2026-05-03,,Cancelled,,97.12
+DLV0791,2026-01-27,Kedah Hub,Sungai Petani,Motorcycle,355,231.8,2026-01-31,2026-02-01,Delivered,1,248.88
+DLV0792,2026-09-10,Johor Hub,Pasir Gudang,Motorcycle,406,218.2,2026-09-13,,Cancelled,,284.68
+DLV0793,2026-04-04,Selangor Hub,Kajang,Lorry,360,269.4,2026-04-08,2026-04-07,Delivered,0,582.32
+DLV0794,2026-04-28,Johor Hub,Pasir Gudang,Motorcycle,368,139.7,2026-05-02,2026-05-02,Delivered,0,251.98
+DLV0795,2026-06-13,Johor Hub,Batu Pahat,Van,318,114.2,2026-06-14,2026-06-14,Delivered,0,358.06
+DLV0796,2026-03-22,Johor Hub,Pasir Gudang,Van,343,183.5,2026-03-25,2026-03-24,Delivered,0,381.38
+DLV0797,2026-03-04,Kedah Hub,Sungai Petani,Motorcycle,111,12.7,2026-03-07,2026-03-06,Delivered,0,99.95
+DLV0798,2026-08-11,Kedah Hub,Sungai Petani,Van,85,78.0,2026-08-12,2026-08-12,Delivered,0,102.08
+DLV0799,2026-03-04,Johor Hub,Batu Pahat,Lorry,331,892.6,2026-03-06,,Cancelled,,534.74
+DLV0800,2026-01-30,Johor Hub,Johor Bahru,Motorcycle,93,215.7,2026-02-01,2026-02-01,Delivered,0,73.48
+DLV0801,2026-04-09,Selangor Hub,Klang,Motorcycle,166,241.5,2026-04-11,2026-04-11,Delivered,0,134.6
+DLV0802,2026-09-21,Johor Hub,Johor Bahru,Motorcycle,328,55.3,2026-09-23,,Cancelled,,225.04
+DLV0803,2026-05-06,Kedah Hub,Jitra,Van,81,152.9,2026-05-08,2026-05-08,Delivered,0,88.26
+DLV0804,2026-05-08,Johor Hub,Pasir Gudang,Lorry,156,815.1,2026-05-09,2026-05-09,Delivered,0,266.54
+DLV0805,2026-02-20,Johor Hub,Johor Bahru,Lorry,51,894.2,2026-02-24,,Cancelled,,88.69
+DLV0806,2026-04-02,Selangor Hub,Shah Alam,Lorry,28,805.5,2026-04-03,2026-04-04,Delivered,1,62.6
+DLV0807,2026-07-26,Kedah Hub,Kulim,Lorry,55,517.2,2026-07-28,2026-07-29,Delivered,1,106.21
+DLV0808,2026-02-01,Kedah Hub,Alor Setar,Van,115,76.0,2026-02-02,2026-02-02,Delivered,0,137.26
+DLV0809,2026-02-17,Selangor Hub,Shah Alam,Van,202,55.2,2026-02-20,2026-02-20,Delivered,0,229.61
+DLV0810,2026-08-14,Johor Hub,Kluang,Motorcycle,363,142.4,2026-08-17,2026-08-17,Delivered,0,244.09
+DLV0811,2026-04-26,Kedah Hub,Sungai Petani,Lorry,159,663.1,2026-04-28,2026-04-28,Delivered,0,268.94
+DLV0812,2026-08-07,Johor Hub,Pasir Gudang,Motorcycle,83,270.4,2026-08-10,2026-08-10,Delivered,0,62.43
+DLV0813,2026-02-25,Selangor Hub,Petaling Jaya,Van,70,132.6,2026-03-01,2026-03-03,Delayed,2,100.37
+DLV0814,2026-02-16,Johor Hub,Johor Bahru,Van,388,187.5,2026-02-17,2026-02-17,Delivered,0,431.66
+DLV0815,2026-07-17,Johor Hub,Batu Pahat,Van,261,102.6,2026-07-18,2026-07-18,Delivered,0,281.79
+DLV0816,2026-05-07,Johor Hub,Pasir Gudang,Motorcycle,425,126.5,2026-05-10,2026-05-11,Delivered,1,297.7
+DLV0817,2026-08-14,Selangor Hub,Klang,Van,102,14.9,2026-08-15,2026-08-15,Delivered,0,132.47
+DLV0818,2026-05-25,Johor Hub,Batu Pahat,Van,119,116.0,2026-05-28,2026-05-29,Delivered,1,136.07
+DLV0819,2026-03-29,Selangor Hub,Petaling Jaya,Motorcycle,123,109.2,2026-03-30,,Cancelled,,97.15
+DLV0820,2026-03-03,Selangor Hub,Kajang,Motorcycle,435,223.1,2026-03-06,2026-03-06,Delivered,0,308.56
+DLV0821,2026-03-11,Selangor Hub,Kajang,Lorry,404,841.0,2026-03-15,2026-03-16,Delivered,1,646.11
+DLV0822,2026-01-07,Johor Hub,Batu Pahat,Lorry,236,136.0,2026-01-09,2026-01-09,Delivered,0,379.55
+DLV0823,2026-02-15,Johor Hub,Kluang,Motorcycle,269,19.9,2026-02-17,2026-02-17,Delivered,0,183.29
+DLV0824,2026-09-29,Kedah Hub,Kulim,Lorry,297,275.0,2026-10-01,2026-09-30,Delivered,0,468.73
+DLV0825,2026-01-16,Selangor Hub,Kajang,Lorry,147,282.6,2026-01-18,2026-01-17,Delivered,0,241.42
+DLV0826,2026-05-10,Selangor Hub,Shah Alam,Van,448,207.2,2026-05-12,2026-05-12,Delivered,0,483.04
+DLV0827,2026-05-22,Johor Hub,Kluang,Motorcycle,265,121.3,2026-05-25,,Cancelled,,183.24
+DLV0828,2026-04-15,Selangor Hub,Shah Alam,Motorcycle,35,19.8,2026-04-16,2026-04-17,Delivered,1,30.9
+DLV0829,2026-05-20,Kedah Hub,Jitra,Lorry,322,283.2,2026-05-22,2026-05-22,Delivered,0,509.04
+DLV0830,2026-01-24,Kedah Hub,Alor Setar,Lorry,426,15.2,2026-01-26,,Cancelled,,670.32
+DLV0831,2026-06-08,Selangor Hub,Klang,Lorry,132,84.6,2026-06-09,,Cancelled,,227.45
+DLV0832,2026-07-22,Johor Hub,Johor Bahru,Van,467,60.7,2026-07-25,2026-07-29,Delayed,4,494.14
+DLV0833,2026-09-10,Kedah Hub,Kulim,Van,327,296.6,2026-09-11,2026-09-12,Delayed,1,366.65
+DLV0834,2026-03-21,Kedah Hub,Alor Setar,Motorcycle,117,98.6,2026-03-22,2026-03-24,Delayed,2,87.46
+DLV0835,2026-06-25,Selangor Hub,Petaling Jaya,Lorry,345,219.9,2026-06-27,2026-06-27,Delivered,0,539.89
+DLV0836,2026-06-05,Kedah Hub,Sungai Petani,Lorry,375,19.3,2026-06-09,2026-06-09,Delivered,0,591.32
+DLV0837,2026-06-27,Selangor Hub,Kajang,Lorry,86,595.0,2026-06-28,2026-06-28,Delivered,0,138.93
+DLV0838,2026-09-18,Johor Hub,Kluang,Lorry,166,354.2,2026-09-21,,Cancelled,,275.39
+DLV0839,2026-08-05,Selangor Hub,Petaling Jaya,Van,399,289.7,2026-08-07,2026-08-07,Delivered,0,424.62
+DLV0840,2026-04-19,Selangor Hub,Shah Alam,Lorry,119,555.0,2026-04-22,2026-04-21,Delivered,0,203.47
+DLV0841,2026-03-22,Kedah Hub,Alor Setar,Lorry,73,493.9,2026-03-23,2026-03-23,Delivered,0,118.04
+DLV0842,2026-05-23,Johor Hub,Kluang,Van,376,51.9,2026-05-26,2026-05-27,Delivered,1,409.83
+DLV0843,2026-05-19,Selangor Hub,Kajang,Van,266,121.2,2026-05-21,2026-05-21,Delivered,0,299.58
+DLV0844,2026-09-12,Johor Hub,Batu Pahat,Lorry,450,615.1,2026-09-13,2026-09-15,Delayed,2,718.37
+DLV0845,2026-04-02,Kedah Hub,Jitra,Motorcycle,246,43.5,2026-04-06,2026-04-07,Delivered,1,179.91
+DLV0846,2026-09-04,Selangor Hub,Shah Alam,Lorry,314,630.0,2026-09-08,2026-09-08,Delivered,0,512.09
+DLV0847,2026-09-30,Johor Hub,Pasir Gudang,Motorcycle,90,278.3,2026-10-03,2026-10-02,Delivered,0,86.22
+DLV0848,2026-04-08,Selangor Hub,Kajang,Motorcycle,51,219.6,2026-04-09,2026-04-09,Delivered,0,59.93
+DLV0849,2026-09-01,Selangor Hub,Shah Alam,Van,224,284.0,2026-09-02,2026-09-01,Delivered,0,251.77
+DLV0850,2026-09-05,Selangor Hub,Klang,Lorry,225,159.5,2026-09-08,2026-09-09,Delivered,1,370.43
+DLV0851,2026-07-01,Selangor Hub,Shah Alam,Motorcycle,171,260.6,2026-07-05,2026-07-05,Delivered,0,123.51
+DLV0852,2026-07-21,Johor Hub,Johor Bahru,Van,397,219.7,2026-07-23,2026-07-27,Delayed,4,438.71
+DLV0853,2026-09-19,Kedah Hub,Sungai Petani,Motorcycle,288,282.8,2026-09-21,2026-09-22,Delivered,1,196.38
+DLV0854,2026-01-21,Selangor Hub,Petaling Jaya,Motorcycle,457,83.4,2026-01-22,2026-01-21,Delivered,0,320.4
+DLV0855,2026-05-21,Kedah Hub,Alor Setar,Van,420,200.1,2026-05-22,2026-05-23,Delivered,1,449.6
+DLV0856,2026-04-01,Johor Hub,Pasir Gudang,Motorcycle,180,268.6,2026-04-03,2026-04-03,Delivered,0,128.42
+DLV0857,2026-08-28,Johor Hub,Pasir Gudang,Lorry,255,603.1,2026-08-30,2026-08-30,Delivered,0,420.51
+DLV0858,2026-09-19,Selangor Hub,Shah Alam,Van,299,159.7,2026-09-23,2026-09-22,Delivered,0,323.38
+DLV0859,2026-08-19,Johor Hub,Johor Bahru,Van,321,107.9,2026-08-23,2026-08-22,Delivered,0,358.36
+DLV0860,2026-03-13,Johor Hub,Pasir Gudang,Van,480,252.7,2026-03-17,2026-03-17,Delivered,0,523.43
+DLV0861,2026-06-18,Johor Hub,Kluang,Van,188,54.3,2026-06-20,,Cancelled,,209.6
+DLV0862,2026-01-26,Selangor Hub,Klang,Van,346,78.3,2026-01-27,2026-01-27,Delivered,0,379.6
+DLV0863,2026-06-07,Kedah Hub,Alor Setar,Motorcycle,186,227.4,2026-06-10,2026-06-10,Delivered,0,143.87
+DLV0864,2026-08-13,Johor Hub,Kluang,Lorry,90,399.0,2026-08-16,2026-08-17,Delivered,1,157.88
+DLV0865,2026-09-20,Selangor Hub,Kajang,Van,353,66.3,2026-09-23,2026-09-23,Delivered,0,380.74
+DLV0866,2026-09-06,Selangor Hub,Petaling Jaya,Motorcycle,413,61.5,2026-09-07,2026-09-07,Delivered,0,292.46
+DLV0867,2026-05-25,Kedah Hub,Alor Setar,Motorcycle,173,220.4,2026-05-27,2026-05-26,Delivered,0,116.96
+DLV0868,2026-06-23,Johor Hub,Kluang,Van,221,118.4,2026-06-26,2026-06-26,Delivered,0,248.51
+DLV0869,2026-05-16,Kedah Hub,Kulim,Lorry,370,134.4,2026-05-17,2026-05-16,Delivered,0,582.09
+DLV0870,2026-02-07,Kedah Hub,Sungai Petani,Lorry,414,721.7,2026-02-10,2026-02-10,Delivered,0,648.47
+DLV0871,2026-04-03,Kedah Hub,Kulim,Van,219,84.4,2026-04-06,2026-04-07,Delivered,1,248.46
+DLV0872,2026-02-09,Selangor Hub,Petaling Jaya,Lorry,469,344.3,2026-02-13,2026-02-13,Delivered,0,751.53
+DLV0873,2026-07-13,Selangor Hub,Petaling Jaya,Motorcycle,105,14.7,2026-07-14,2026-07-13,Delivered,0,86.74
+DLV0874,2026-09-07,Kedah Hub,Alor Setar,Lorry,162,441.2,2026-09-09,2026-09-08,Delivered,0,260.5
+DLV0875,2026-03-05,Selangor Hub,Kajang,Van,309,138.6,2026-03-07,2026-03-06,Delivered,0,332.62
+DLV0876,2026-08-01,Kedah Hub,Sungai Petani,Van,474,106.4,2026-08-02,,Cancelled,,514.68
+DLV0877,2026-07-14,Johor Hub,Kluang,Van,153,44.0,2026-07-15,2026-07-14,Delivered,0,176.55
+DLV0878,2026-02-16,Johor Hub,Pasir Gudang,Lorry,217,209.2,2026-02-19,2026-02-23,Delayed,4,342.1
+DLV0879,2026-04-23,Kedah Hub,Sungai Petani,Van,132,43.1,2026-04-24,2026-04-24,Delivered,0,162.74
+DLV0880,2026-03-26,Kedah Hub,Alor Setar,Lorry,281,413.2,2026-03-29,2026-03-29,Delivered,0,454.66
+DLV0881,2026-03-06,Johor Hub,Johor Bahru,Van,386,248.4,2026-03-07,2026-03-07,Delivered,0,418.01
+DLV0882,2026-02-03,Selangor Hub,Klang,Motorcycle,392,120.2,2026-02-07,2026-02-11,Delayed,4,269.47
+DLV0883,2026-03-21,Selangor Hub,Kajang,Motorcycle,298,155.8,2026-03-22,2026-03-22,Delivered,0,197.42
+DLV0884,2026-02-23,Selangor Hub,Kajang,Lorry,363,849.8,2026-02-25,2026-02-24,Delivered,0,578.95
+DLV0885,2026-02-23,Selangor Hub,Klang,Motorcycle,83,33.2,2026-02-26,,Cancelled,,75.38
+DLV0886,2026-06-05,Selangor Hub,Petaling Jaya,Van,163,1.3,2026-06-08,2026-06-08,Delivered,0,182.46
+DLV0887,2026-02-26,Kedah Hub,Jitra,Lorry,179,841.6,2026-03-02,2026-03-02,Delivered,0,290.95
+DLV0888,2026-09-05,Selangor Hub,Kajang,Motorcycle,146,3.2,2026-09-08,2026-09-09,Delivered,1,103.81
+DLV0889,2026-06-20,Selangor Hub,Shah Alam,Lorry,202,838.4,2026-06-21,2026-06-21,Delivered,0,335.12
+DLV0890,2026-03-16,Kedah Hub,Kulim,Van,382,126.3,2026-03-17,2026-03-17,Delivered,0,410.53
+DLV0891,2026-02-21,Johor Hub,Johor Bahru,Lorry,134,799.6,2026-02-24,2026-02-23,Delivered,0,212.04
+DLV0892,2026-02-17,Selangor Hub,Klang,Motorcycle,381,214.7,2026-02-18,2026-02-17,Delivered,0,250.86
+DLV0893,2026-04-24,Selangor Hub,Shah Alam,Van,375,64.9,2026-04-28,2026-04-28,Delivered,0,410.26
+DLV0894,2026-09-28,Selangor Hub,Klang,Lorry,32,226.8,2026-10-01,2026-10-01,Delivered,0,56.31
+DLV0895,2026-04-19,Kedah Hub,Alor Setar,Lorry,218,118.5,2026-04-20,2026-04-20,Delivered,0,356.25
+DLV0896,2026-05-26,Selangor Hub,Petaling Jaya,Van,440,38.7,2026-05-29,2026-05-29,Delivered,0,479.16
+DLV0897,2026-08-08,Johor Hub,Kluang,Van,411,26.5,2026-08-12,2026-08-12,Delivered,0,458.86
+DLV0898,2026-06-08,Johor Hub,Pasir Gudang,Motorcycle,285,46.9,2026-06-12,2026-06-12,Delivered,0,207.03
+DLV0899,2026-03-27,Johor Hub,Johor Bahru,Motorcycle,82,153.1,2026-03-28,2026-03-31,Delayed,3,61.63
+DLV0900,2026-08-10,Kedah Hub,Jitra,Van,211,264.2,2026-08-11,2026-08-11,Delivered,0,238.15
+DLV0901,2026-01-15,Selangor Hub,Klang,Van,38,289.1,2026-01-17,2026-01-17,Delivered,0,47.12
+DLV0902,2026-07-03,Selangor Hub,Shah Alam,Lorry,219,495.3,2026-07-07,2026-07-07,Delivered,0,360.04
+DLV0903,2026-07-03,Kedah Hub,Kulim,Van,455,74.4,2026-07-04,2026-07-03,Delivered,0,493.96
+DLV0904,2026-05-10,Kedah Hub,Kulim,Lorry,44,278.3,2026-05-12,2026-05-16,Delayed,4,84.55
+DLV0905,2026-02-09,Kedah Hub,Alor Setar,Motorcycle,291,92.9,2026-02-10,2026-02-10,Delivered,0,214.19
+DLV0906,2026-03-17,Johor Hub,Pasir Gudang,Lorry,395,267.8,2026-03-18,2026-03-18,Delivered,0,636.04
+DLV0907,2026-09-20,Johor Hub,Kluang,Motorcycle,365,236.9,2026-09-21,2026-09-21,Delivered,0,260.39
+DLV0908,2026-09-30,Kedah Hub,Sungai Petani,Lorry,225,489.4,2026-10-03,2026-10-02,Delivered,0,359.63
+DLV0909,2026-04-06,Kedah Hub,Sungai Petani,Motorcycle,228,144.9,2026-04-10,2026-04-10,Delivered,0,173.7
+DLV0910,2026-03-16,Johor Hub,Batu Pahat,Lorry,79,158.5,2026-03-17,,Cancelled,,134.08
+DLV0911,2026-01-19,Johor Hub,Pasir Gudang,Motorcycle,242,62.9,2026-01-20,2026-01-20,Delivered,0,179.17
+DLV0912,2026-07-14,Johor Hub,Batu Pahat,Motorcycle,457,141.5,2026-07-15,2026-07-15,Delivered,0,309.09
+DLV0913,2026-02-07,Kedah Hub,Jitra,Motorcycle,325,21.0,2026-02-11,2026-02-11,Delivered,0,214.43
+DLV0914,2026-09-22,Selangor Hub,Klang,Van,327,145.6,2026-09-24,2026-09-23,Delivered,0,363.38
+DLV0915,2026-03-01,Johor Hub,Pasir Gudang,Van,408,165.9,2026-03-05,2026-03-08,Delayed,3,447.68
+DLV0916,2026-08-06,Kedah Hub,Kulim,Motorcycle,123,298.8,2026-08-09,2026-08-08,Delivered,0,89.15
+DLV0917,2026-05-06,Selangor Hub,Petaling Jaya,Lorry,50,418.7,2026-05-09,,Cancelled,,84.75
+DLV0918,2026-09-23,Selangor Hub,Petaling Jaya,Lorry,261,840.0,2026-09-26,2026-09-29,Delayed,3,430.83
+DLV0919,2026-02-01,Kedah Hub,Alor Setar,Motorcycle,332,180.5,2026-02-04,2026-02-04,Delivered,0,242.2
+DLV0920,2026-06-29,Kedah Hub,Sungai Petani,Lorry,327,294.9,2026-07-02,2026-07-02,Delivered,0,528.07
+DLV0921,2026-04-22,Johor Hub,Batu Pahat,Lorry,136,264.5,2026-04-24,2026-04-24,Delivered,0,217.61
+DLV0922,2026-01-26,Selangor Hub,Petaling Jaya,Van,256,105.3,2026-01-30,2026-01-30,Delivered,0,295.88
+DLV0923,2026-03-29,Kedah Hub,Jitra,Motorcycle,274,114.5,2026-03-30,2026-03-30,Delivered,0,195.41
+DLV0924,2026-06-20,Johor Hub,Kluang,Motorcycle,310,254.8,2026-06-24,2026-06-24,Delivered,0,222.24
+DLV0925,2026-04-14,Selangor Hub,Klang,Lorry,203,474.4,2026-04-15,2026-04-15,Delivered,0,323.33
+DLV0926,2026-07-21,Kedah Hub,Sungai Petani,Van,164,273.1,2026-07-22,2026-07-23,Delayed,1,175.98
+DLV0927,2026-07-26,Selangor Hub,Petaling Jaya,Lorry,174,792.0,2026-07-29,2026-07-29,Delivered,0,291.23
+DLV0928,2026-04-25,Selangor Hub,Klang,Motorcycle,113,30.6,2026-04-29,2026-04-28,Delivered,0,100.01
+DLV0929,2026-02-07,Kedah Hub,Jitra,Lorry,375,298.1,2026-02-09,2026-02-09,Delivered,0,590.79
+DLV0930,2026-06-06,Johor Hub,Kluang,Motorcycle,417,116.9,2026-06-07,2026-06-11,Delayed,4,288.94
+DLV0931,2026-02-19,Selangor Hub,Shah Alam,Motorcycle,135,299.1,2026-02-21,2026-02-20,Delivered,0,99.45
+DLV0932,2026-03-30,Kedah Hub,Jitra,Motorcycle,266,37.8,2026-04-01,2026-04-01,Delivered,0,196.04
+DLV0933,2026-03-27,Selangor Hub,Kajang,Van,456,72.8,2026-03-31,,Cancelled,,481.86
+DLV0934,2026-03-22,Selangor Hub,Petaling Jaya,Lorry,321,638.1,2026-03-26,2026-03-26,Delivered,0,510.48
+DLV0935,2026-03-03,Selangor Hub,Shah Alam,Van,61,118.4,2026-03-04,2026-03-04,Delivered,0,70.32
+DLV0936,2026-01-13,Kedah Hub,Alor Setar,Van,120,171.1,2026-01-15,2026-01-15,Delivered,0,143.84
+DLV0937,2026-01-12,Kedah Hub,Kulim,Motorcycle,352,126.0,2026-01-14,2026-01-16,Delayed,2,245.78
+DLV0938,2026-07-24,Kedah Hub,Jitra,Van,42,38.4,2026-07-28,2026-07-28,Delivered,0,57.78
+DLV0939,2026-08-15,Selangor Hub,Petaling Jaya,Van,246,289.0,2026-08-19,2026-08-19,Delivered,0,279.18
+DLV0940,2026-09-28,Selangor Hub,Petaling Jaya,Motorcycle,141,270.5,2026-09-30,2026-10-01,Delivered,1,99.31
+DLV0941,2026-02-05,Selangor Hub,Petaling Jaya,Van,60,140.5,2026-02-06,2026-02-05,Delivered,0,82.47
+DLV0942,2026-05-15,Kedah Hub,Sungai Petani,Van,376,137.2,2026-05-16,2026-05-15,Delivered,0,413.34
+DLV0943,2026-07-06,Kedah Hub,Kulim,Motorcycle,205,24.6,2026-07-10,2026-07-10,Delivered,0,142.39
+DLV0944,2026-06-08,Kedah Hub,Alor Setar,Lorry,118,185.2,2026-06-09,2026-06-09,Delivered,0,208.04
+DLV0945,2026-08-22,Johor Hub,Pasir Gudang,Motorcycle,99,122.6,2026-08-24,2026-08-25,Delivered,1,77.46
+DLV0946,2026-08-08,Selangor Hub,Petaling Jaya,Van,209,95.4,2026-08-11,2026-08-14,Delayed,3,226.71
+DLV0947,2026-07-17,Selangor Hub,Kajang,Motorcycle,124,138.1,2026-07-18,2026-07-18,Delivered,0,93.35
+DLV0948,2026-07-03,Johor Hub,Pasir Gudang,Van,216,79.9,2026-07-04,2026-07-04,Delivered,0,241.6
+DLV0949,2026-07-21,Johor Hub,Batu Pahat,Lorry,18,399.4,2026-07-25,2026-07-26,Delivered,1,51.69
+DLV0950,2026-07-01,Johor Hub,Johor Bahru,Van,231,270.1,2026-07-03,2026-07-02,Delivered,0,248.3
+DLV0951,2026-02-27,Selangor Hub,Shah Alam,Lorry,394,211.2,2026-03-03,2026-03-03,Delivered,0,635.09
+DLV0952,2026-04-18,Kedah Hub,Kulim,Van,371,298.0,2026-04-22,2026-04-21,Delivered,0,401.05
+DLV0953,2026-06-21,Kedah Hub,Kulim,Van,318,274.2,2026-06-22,2026-06-22,Delivered,0,351.93
+DLV0954,2026-02-03,Johor Hub,Johor Bahru,Motorcycle,148,89.9,2026-02-04,2026-02-03,Delivered,0,104.9
+DLV0955,2026-02-23,Kedah Hub,Kulim,Van,54,261.7,2026-02-27,2026-02-28,Delivered,1,71.96
+DLV0956,2026-02-19,Johor Hub,Kluang,Lorry,391,112.0,2026-02-23,2026-02-23,Delivered,0,611.16
+DLV0957,2026-02-19,Johor Hub,Pasir Gudang,Motorcycle,250,93.4,2026-02-23,2026-02-23,Delivered,0,174.56
+DLV0958,2026-01-08,Kedah Hub,Jitra,Van,156,138.3,2026-01-11,2026-01-12,Delivered,1,180.6
+DLV0959,2026-06-17,Selangor Hub,Klang,Van,179,203.5,2026-06-19,,Cancelled,,191.86
+DLV0960,2026-03-18,Selangor Hub,Shah Alam,Lorry,136,292.8,2026-03-19,2026-03-19,Delivered,0,227.89
+DLV0961,2026-03-30,Johor Hub,Johor Bahru,Lorry,59,881.6,2026-04-01,2026-04-02,Delivered,1,97.9
+DLV0962,2026-07-03,Kedah Hub,Alor Setar,Van,310,129.7,2026-07-07,2026-07-07,Delivered,0,339.42
+DLV0963,2026-08-19,Selangor Hub,Klang,Van,212,81.9,2026-08-20,2026-08-20,Delivered,0,237.46
+DLV0964,2026-08-09,Johor Hub,Johor Bahru,Van,145,116.0,2026-08-12,2026-08-14,Delayed,2,160.79
+DLV0965,2026-06-07,Kedah Hub,Jitra,Motorcycle,167,154.7,2026-06-10,2026-06-10,Delivered,0,122.72
+DLV0966,2026-01-06,Johor Hub,Johor Bahru,Van,61,82.2,2026-01-09,2026-01-08,Delivered,0,67.16
+DLV0967,2026-06-22,Selangor Hub,Kajang,Van,79,255.1,2026-06-24,2026-06-25,Delivered,1,101.49
+DLV0968,2026-06-09,Selangor Hub,Kajang,Lorry,410,473.8,2026-06-10,2026-06-10,Delivered,0,659.57
+DLV0969,2026-06-11,Kedah Hub,Jitra,Van,465,185.7,2026-06-12,2026-06-12,Delivered,0,508.97
+DLV0970,2026-09-04,Selangor Hub,Shah Alam,Lorry,18,323.9,2026-09-08,2026-09-10,Delayed,2,34.69
+DLV0971,2026-02-13,Selangor Hub,Kajang,Motorcycle,384,34.5,2026-02-15,2026-02-15,Delivered,0,255.34
+DLV0972,2026-02-04,Johor Hub,Batu Pahat,Motorcycle,53,275.7,2026-02-08,2026-02-09,Delivered,1,60.17
+DLV0973,2026-01-07,Kedah Hub,Sungai Petani,Lorry,33,361.7,2026-01-08,2026-01-08,Delivered,0,66.32
+DLV0974,2026-08-05,Johor Hub,Johor Bahru,Motorcycle,69,235.4,2026-08-07,2026-08-08,Delayed,1,62.67
+DLV0975,2026-06-24,Selangor Hub,Shah Alam,Motorcycle,174,27.0,2026-06-28,2026-06-30,Delayed,2,118.04
+DLV0976,2026-07-12,Selangor Hub,Kajang,Lorry,24,251.8,2026-07-13,2026-07-13,Delivered,0,53.79
+DLV0977,2026-01-12,Johor Hub,Pasir Gudang,Motorcycle,195,231.3,2026-01-14,2026-01-14,Delivered,0,132.48
+DLV0978,2026-07-10,Johor Hub,Johor Bahru,Motorcycle,61,88.0,2026-07-14,2026-07-14,Delivered,0,64.42
+DLV0979,2026-01-24,Selangor Hub,Petaling Jaya,Van,309,291.2,2026-01-28,2026-01-29,Delivered,1,343.25
+DLV0980,2026-06-29,Selangor Hub,Kajang,Motorcycle,137,285.5,2026-07-02,2026-07-01,Delivered,0,108.35
+DLV0981,2026-04-22,Johor Hub,Kluang,Van,107,92.8,2026-04-23,2026-04-23,Delivered,0,122.03
+DLV0982,2026-08-30,Johor Hub,Pasir Gudang,Motorcycle,194,241.6,2026-09-03,2026-09-03,Delivered,0,140.84
+DLV0983,2026-03-27,Kedah Hub,Sungai Petani,Van,331,14.1,2026-03-30,2026-03-30,Delivered,0,352.0
+DLV0984,2026-06-01,Kedah Hub,Jitra,Lorry,341,111.4,2026-06-03,2026-06-03,Delivered,0,555.21
+DLV0985,2026-08-31,Selangor Hub,Shah Alam,Lorry,305,414.3,2026-09-04,2026-09-05,Delivered,1,483.85
+DLV0986,2026-04-06,Kedah Hub,Jitra,Van,254,226.9,2026-04-07,2026-04-08,Delivered,1,284.87
+DLV0987,2026-01-22,Kedah Hub,Alor Setar,Lorry,101,645.6,2026-01-26,2026-01-26,Delivered,0,167.65
+DLV0988,2026-06-15,Selangor Hub,Kajang,Motorcycle,361,188.4,2026-06-16,,Cancelled,,255.96
+DLV0989,2026-06-13,Selangor Hub,Shah Alam,Van,480,30.5,2026-06-16,2026-06-15,Delivered,0,521.17
+DLV0990,2026-09-27,Selangor Hub,Shah Alam,Lorry,378,674.7,2026-09-30,2026-09-29,Delivered,0,599.77
+DLV0991,2026-01-02,Kedah Hub,Alor Setar,Lorry,303,652.9,2026-01-05,2026-01-05,Delivered,0,482.13
+DLV0992,2026-02-06,Kedah Hub,Alor Setar,Van,287,237.8,2026-02-10,2026-02-11,Delivered,1,328.55
+DLV0993,2026-07-05,Selangor Hub,Petaling Jaya,Lorry,81,621.3,2026-07-07,2026-07-08,Delivered,1,137.87
+DLV0994,2026-05-01,Johor Hub,Pasir Gudang,Van,26,6.1,2026-05-04,2026-05-05,Delivered,1,39.57
+DLV0995,2026-09-23,Selangor Hub,Petaling Jaya,Motorcycle,347,77.3,2026-09-25,2026-09-25,Delivered,0,252.28
+DLV0996,2026-06-14,Johor Hub,Batu Pahat,Lorry,171,67.9,2026-06-15,2026-06-15,Delivered,0,270.74
+DLV0997,2026-05-06,Kedah Hub,Sungai Petani,Motorcycle,462,8.0,2026-05-07,2026-05-07,Delivered,0,317.23
+DLV0998,2026-02-04,Kedah Hub,Jitra,Lorry,133,741.6,2026-02-06,2026-02-06,Delivered,0,229.51
+DLV0999,2026-06-20,Johor Hub,Pasir Gudang,Lorry,170,804.7,2026-06-21,,Cancelled,,274.99
+DLV1000,2026-09-04,Kedah Hub,Kulim,Lorry,375,725.1,2026-09-06,2026-09-07,Delivered,1,606.93
